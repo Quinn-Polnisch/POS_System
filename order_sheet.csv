@@ -1,0 +1,114 @@
+Item,Count(Case),Ordered,Units,Item Code,Ratio,Order
+"6"" tortilla shells",0.042,0,qty,940113,1.0,1.0
+90/10 canola oil,0.107,0,floz,350713,1.0,0.0
+american cheese,0.204,0,qty,33050,20.0,0.0
+a.p. flour,0.1,0,nwoz,205003,1.0,1.0
+a.p. mayo,0.112,0,floz,310441,1.0,1.0
+apple cider vinegar,0.046,0,floz,550402,1.0,1.0
+artichoke hearts,0.043,0,nwoz,530603,1.0,0.0
+baby kale,0.5,0,nwoz,109095,1.0,2.0
+baguettes,1.2,0,qty,965163,1.0,1.0
+"black pepper, ground",0.008,0,floz,481304,1.0,1.0
+burger buns,1.7,0,qty,932774,1.0,4.0
+burger meat,1.269,0,nwoz,10451,20.0,4.0
+butter,0.132,0,nwoz,13602,36.0,1.0
+buttermilk,0.139,0,floz,61613,1.0,1.0
+carrots,0.022,0,nwoz,,1.0,1.0
+celery seed,0.029,0,nwoz,481244,1.0,1.0
+cherry peppers,0.005,0,floz,390421,1.0,1.0
+chickpeas,0.017,0,nwoz,520660,1.0,0.0
+chocolate chip cookie dough,0.05,0,qty,995470,1.0,1.0
+chopped bacon,0.242,0,nwoz,400300,1.0,1.0
+coleslaw mix,0.325,0,nwoz,109034,1.0,1.0
+cranberry sauce,0.005,0,nwoz,,1.0,1.0
+cucumbers,0.137,0,qty,109068,1.0,1.0
+dill pickles,0.263,0,floz,392006,1.0,1.0
+dried cranberries,0.113,0,nwoz,563008,1.0,1.0
+eggs,0.006,0,qty,53005,15.0,0.0
+farro,0.229,0,nwoz,,1.0,1.0
+feta,0.034,0,nwoz,33509,10.0,0.0
+french fries,3.642,0,nwoz,700706,1.0,10.0
+fried chicken breast,1.25,0,qty,410575,1.0,6.0
+frozen haddock,0.926,0,qty,960051,1.0,3.0
+frozen wings,3.3,0,lb,410222,1.0,10.0
+garlic powder,0.009,0,nwoz,481232,1.0,1.0
+gf buns,0.042,0,qty,932281,1.0,1.0
+gorgonzola crumbles,0.169,0,nwoz,30217,20.0,0.0
+granny smith apples,0.094,0,qty,109002,1.0,1.0
+grapes,0.062,0,nwoz,109082,1.0,1.0
+grated parm,0.019,0,nwoz,31323,1.0,0.0
+iceberg,0.149,0,qty,109105,1.0,1.0
+kalamata olives,0.129,0,nwoz,363015,1.0,0.0
+korean bbq,0.109,0,floz,161517,1.0,1.0
+kosher salt,0.073,0,nwoz,433602,1.0,2.0
+lemons,0.018,0,qty,109102,1.0,1.0
+limes,0.028,0,qty,109122,1.0,2.0
+mango habanero,0.062,0,floz,160572,1.0,0.0
+micro greens,0.35,0,nwoz,,1.0,2.0
+mixed greens,2.375,0,nwoz,109121,1.0,7.0
+muenster,0.096,0,nwoz,133614,1.0,0.0
+panko,0.21,0,nwoz,152016,1.0,1.0
+paprika,0.075,0,floz,470070,1.0,1.0
+parsley,0.056,0,nwoz,102097,1.0,1.0
+pretzels,2.257,0,nwoz,932914,1.0,6.0
+provolone,0.234,0,qty,,1.0,1.0
+ranch packets,0.104,0,floz,161202,1.0,2.0
+red onions,0.013,0,nwoz,109148,1.0,1.0
+red tomatoes,0.052,0,nwoz,109229,1.0,1.0
+riccotta,0.026,0,nwoz,,1.0,1.0
+romaine,0.306,0,qty,109120,1.0,2.0
+rosemary,0.3,0,nwoz,,1.0,2.0
+salmon (6oz),0.269,0,qty,682204,10.0,1.0
+scallions,0.186,0,qty,102632,1.0,1.0
+shaved parmesan,0.1,0,nwoz,30302,10.0,2.0
+shredded mozzarella,0.022,0,nwoz,100045,20.0,1.0
+shrimp,0.15,0,lb,109661,10.0,3.0
+sliced cheddar,0.349,0,qty,234444,9.0,1.0
+sourdough,0.409,0,qty,932776,1.0,2.0
+swiss,0.271,0,qty,,1.0,1.0
+tabasco,0.03,0,floz,461202,1.0,1.0
+vanilla ice cream,0.042,0,floz,842429,1.0,1.0
+yellow onions,0.134,0,nwoz,109147,1.0,1.0
+balsamic vinaigrette,0.209,0,floz,BALSAMIC_VINAIGRETTE,1.0,1.0
+biscuit topping,0.469,0,nwoz,BISCUIT_TOPPING_COMMISSARY_FALL_24,1.0,1.0
+"black bean, quinoa burger",0.14,0,qty,"BLACK_BEAN,_QUINOA_&_CORN_BURGER_SPRING_23",1.0,1.0
+blackened seasoning,0.031,0,floz,BLACKENED_SEASONING_-_COMMISSARY,1.0,1.0
+blue cheese,0.194,0,floz,BLUE_CHEESE_DRESSING,1.0,1.0
+bolognese,0.312,0,floz,BOLOGNESE_COMMISSARY_24_,1.0,1.0
+boneless,2.275,0,lb,6459750,1.0,1.0
+brown gravy,1.031,0,floz,BROWN_GRAVY_COMMISSARY_FALL_24,1.0,1.0
+buffalo chicken meatballs,0.35,0,qty,BUFFALO_CHICKEN_MEATBALLS_COMMISSARY_FALL_24,1.0,1.0
+burger sauce,0.684,0,floz,BURGER_SAUCE,1.0,1.0
+caesar dressing,0.05,0,floz,CAESAR_DRESSING,1.0,1.0
+cali-burrito eggrolls,0.2,0,qty,CALI-BURRITO_EGGROLS_COMMISSARY_FALL_24,1.0,1.0
+candied walnuts,0.225,0,nwoz,CANDIED_WALNUTS,1.0,1.0
+caramelized onions,0.475,0,nwoz,CARAMELIZED_ONIONS_FALL_23,1.0,1.0
+carolina bbq,0.2,0,floz,CAROLINA_BBQ_SAUCE,1.0,1.0
+cbr dip,0.438,0,floz,CBR_DIP_COMMISSARY_FALL_24,1.0,1.0
+cheese sauce,4.492,0,floz,CHEESE_SAUCE,1.0,1.0
+chicken pot pie,0.469,0,floz,CHICKEN_POT_PIE_FALL_23,1.0,1.0
+cocktail sauce,0.031,0,floz,COCKTAIL_SAUCE_SPRING_23,1.0,1.0
+creamed spinach,0.062,0,floz,CREAMED_SPINACH_COMMISSARY_FALL_24_,1.0,1.0
+creamy buffalo,0.146,0,floz,CREAMY_BUFFALO_SAUCE_,1.0,1.0
+french onion soup,1.062,0,floz,FRENCH_ONION_SOUP_COMMISSARY_FALL_24,1.0,1.0
+garlic butter,0.412,0,nwoz,,1.0,1.0
+house fries,0.3,0,nwoz,HOUSE_FRIES_COMMISSARY_24,1.0,1.0
+jalapeno mac balls,0.625,0,qty,JALAPENO_MAC_BALLS_COMMISSARY_FALL_24,1.0,1.0
+jalapeno ranch,0.128,0,floz,JALAPENO_RANCH,1.0,1.0
+lemon dijon vinaigrette,0.069,0,floz,LEMON_DIJON_VIN_FALL_23,1.0,1.0
+marinara,0.031,0,floz,MARINARA_24,1.0,1.0
+pancetta onion jam,0.281,0,floz,,1.0,1.0
+pickled red onions,0.031,0,nwoz,PICKLED_RED_ONIONS_UPDATED,1.0,1.0
+pico de gallo,0.15,0,nwoz,PICO_DE_GALLO_-_COMMISSARY,1.0,1.0
+pulled pork,0.146,0,nwoz,PULLED_PORK,1.0,1.0
+ranch,0.267,0,floz,RANCH_DRESSING,1.0,1.0
+roast beef,0.6,0,nwoz,ROAST_BEEF_COMMISSARY_FALL_24,1.0,1.0
+raw pasta,1.577,0,nwoz,RAW_PASTA_FALL_23,1.0,1.0
+roasted chicken,0.72,0,qty,ROASTED_CHICKEN_-_COMMISSARY,1.0,1.0
+roasted tomatoes,0.269,0,nwoz,ROASTED_TOMATOES,1.0,1.0
+short rib dumplings,0.72,0,qty,SHORT_RIB_DUMPLINGSCOMMISSARY_FALL_24,1.0,1.0
+shredded chicken,0.412,0,nwoz,SHREDDED_CHICKEN_-_COMMISSARY_24,1.0,1.0
+stuffing,0.75,0,nwoz,STUFFING_COMMISSARY_FALL_24,1.0,1.0
+tartar sauce,0.062,0,floz,TARTAR_SAUCE_SPRING_23,1.0,1.0
+turkey,0.562,0,nwoz,TURKEY_COMMISSARY_FALL_24,1.0,1.0
+thick chips,0.117,0,nwoz,,1.0,1.0

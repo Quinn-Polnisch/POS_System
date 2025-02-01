@@ -1,0 +1,1523 @@
+Type,Menu,Menu group,"Item, open item",Size modifier,"Modifiers, special requests",Sales Category,Item tags,Qty sold,Avg. price,Avg. item price (not incl. mods),Gross sales,Discount amount,Refund amount,Void amount,Net sales,Tax,Waste count,Waste amount
+"",Alcohol,,,,,,,5278.0,8.90,,46948.5,82.9,0.0,919.5,46865.6,2951.21,0.0,0.0
+"",Alcohol,Druthers Cocktails,,,,,,549.0,12.83,,7045.0,12.0,0.0,42.0,7033.0,474.46,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Ginger Pomegranate Paloma,,,Liquor,[],69.0,14.80,14.80,1021.0,0.0,0.0,0.0,1021.0,67.55,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Ginger Pomegranate Paloma,,Less Sweet If U Can,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Ginger Pomegranate Paloma,,Sub Vodka,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Strawberry Grapefruit Breeze,,,Liquor,[],30.0,14.67,14.67,440.0,0.0,0.0,0.0,440.0,30.8,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Druthers Bloody Mary,,,Liquor,[],18.0,12.00,12.00,216.0,0.0,0.0,12.0,216.0,12.6,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Druthers Bloody Mary,,No Extra Spice,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Cool as a Cuke,,,Liquor,[],39.0,13.59,13.59,530.0,12.0,0.0,0.0,518.0,31.36,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Cool as a Cuke,,As Close As You Can,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,A Fool's Blueberry Tea,,,Liquor,[],80.0,13.85,13.85,1108.0,0.0,0.0,0.0,1108.0,74.62,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,A Fool's Blueberry Tea,,No Ice Tea,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,A Fool's Blueberry Tea,,No Lemonaade,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Strawberry Basil Margarita,,,Liquor,[],119.0,14.71,14.71,1751.0,0.0,0.0,15.0,1751.0,122.57,0.0,0.0
+modifier,Alcohol,Druthers Cocktails,Strawberry Basil Margarita,,SALT,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Druthers Cocktails,Strawberry Basil Margarita,,SUGAR,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Strawberry Basil Margarita,,No Simple,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Strawberry Basil Margarita,,Sub Casamigos,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Espresso Martini,,,Liquor,[],37.0,12.95,12.95,479.0,0.0,0.0,0.0,479.0,31.71,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Hoppy Rum Punch,,,Liquor,[],13.0,14.54,14.54,189.0,0.0,0.0,15.0,189.0,13.23,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Hoppy Rum Punch,,"No IPA, Rocks Glass",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Goserita,,,Liquor,[],10.0,13.00,13.00,130.0,0.0,0.0,0.0,130.0,9.1,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Goserita,,No Syrup,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Michelada,,,Liquor,[],11.0,13.82,13.82,152.0,0.0,0.0,0.0,152.0,10.64,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Druthers Shandy,,,Liquor,[],30.0,8.67,8.67,260.0,0.0,0.0,0.0,260.0,17.57,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Beermosa,,,Liquor,[],4.0,10.00,10.00,40.0,0.0,0.0,0.0,40.0,2.8,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Long Island Iced Tea,,,Liquor,[],3.0,14.33,14.33,43.0,0.0,0.0,0.0,43.0,3.01,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Long Island Iced Tea,,More Coke Than Sour,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Ginger Pomegranate Zero,,,Zero Proof,[],23.0,7.65,7.65,176.0,0.0,0.0,0.0,176.0,12.32,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Ginger Pomegranate Zero,,No Syrupy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Margarita Zero,,,Zero Proof,[],12.0,7.67,7.67,92.0,0.0,0.0,0.0,92.0,6.44,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Sparkling Strawberry Lemonade,,,Zero Proof,[],47.0,7.74,7.74,364.0,0.0,0.0,0.0,364.0,24.36,0.0,0.0
+specialRequest,Alcohol,Druthers Cocktails,Sparkling Strawberry Lemonade,,No Club,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,A Fool's Blueberry Mint Tea,,,Liquor,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+menuItem,Alcohol,Druthers Cocktails,Aperol Spritz,,,Liquor,[],3.0,13.00,13.00,39.0,0.0,0.0,0.0,39.0,2.73,0.0,0.0
+"",Alcohol,Classic Cocktails,,,,,,34.0,16.65,,566.0,0.0,0.0,0.0,566.0,38.50,0.0,0.0
+menuItem,Alcohol,Classic Cocktails,Manhattan,,,Liquor,[],6.0,16.00,13.00,96.0,0.0,0.0,0.0,96.0,6.72,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Manhattan,,Springbrook Rye,,[],1.0,3.00,3.00,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Manhattan,,Springbrook Bourbon,,[],2.0,3.00,3.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Manhattan,,Makers Mark,,[],3.0,3.00,3.00,9.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0
+menuItem,Alcohol,Classic Cocktails,Old Fashion,,,Liquor,[],15.0,16.60,13.00,249.0,0.0,0.0,0.0,249.0,17.43,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Old Fashion,,Well Whiskey,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Old Fashion,,Springbrook Rye,,[],2.0,3.00,3.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Old Fashion,,Springbrook Bourbon,,[],1.0,3.00,3.00,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Old Fashion,,Makers Mark,,[],5.0,3.00,3.00,15.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Old Fashion,,Woodford Reserve,,[],6.0,5.00,5.00,30.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0
+specialRequest,Alcohol,Classic Cocktails,Old Fashion,,Extra Orange Slice,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Classic Cocktails,Vodka Martini,,,Liquor,[],11.0,16.82,13.00,185.0,0.0,0.0,0.0,185.0,11.83,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Vodka Martini,,Well Vodka,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Vodka Martini,,Titos,,[],4.0,3.00,3.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Vodka Martini,,Kettle One,,[],6.0,5.00,5.00,30.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0
+specialRequest,Alcohol,Classic Cocktails,Vodka Martini,,Dirty,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Classic Cocktails,Vodka Martini,,Straight,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Classic Cocktails,Vodka Martini,,"Straight Up, Olive",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Classic Cocktails,Gin Martini,,,Liquor,[],2.0,18.00,13.00,36.0,0.0,0.0,0.0,36.0,2.52,0.0,0.0
+modifier,Alcohol,Classic Cocktails,Gin Martini,,Hendricks,,[],2.0,5.00,5.00,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+specialRequest,Alcohol,Classic Cocktails,Gin Martini,,Dry Two Olives,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Alcohol,Seltzer/Canned Cocktails,,,,,,137.0,9.28,,1271.0,0.0,0.0,45.0,1271.0,84.35,0.0,0.0
+menuItem,Alcohol,Seltzer/Canned Cocktails,Brooklyn Amber N/A,,,Guest Taps,[],26.0,7.65,7.65,199.0,0.0,0.0,5.0,199.0,13.37,0.0,0.0
+menuItem,Alcohol,Seltzer/Canned Cocktails,(Can) White Claw Vodka + Soda Wild Peach,,,Guest Taps,[],2.0,8.00,8.00,16.0,0.0,0.0,0.0,16.0,1.12,0.0,0.0
+menuItem,Alcohol,Seltzer/Canned Cocktails,(Can) High Noon- Pinneapple,,,Guest Taps,[],24.0,9.25,9.25,222.0,0.0,0.0,0.0,222.0,15.54,0.0,0.0
+menuItem,Alcohol,Seltzer/Canned Cocktails,(Can) High Noon - Mango,,,Guest Taps,[],25.0,9.68,9.68,242.0,0.0,0.0,0.0,242.0,16.24,0.0,0.0
+menuItem,Alcohol,Seltzer/Canned Cocktails,(Can) Sun Cruiser Iced Tea Vodka,,,Guest Taps,[],14.0,10.00,10.00,140.0,0.0,0.0,40.0,140.0,8.4,0.0,0.0
+menuItem,Alcohol,Seltzer/Canned Cocktails,(Can) Surfside Strawberry,,,Guest Taps,[],9.0,10.00,10.00,90.0,0.0,0.0,0.0,90.0,6.3,0.0,0.0
+menuItem,Alcohol,Seltzer/Canned Cocktails,(Can) Surfside Tea Lemonade,,,Guest Taps,[],37.0,9.78,9.78,362.0,0.0,0.0,0.0,362.0,23.38,0.0,0.0
+"",Alcohol,Alcoholic Milkshakes,,,,,,18.0,13.78,,248.0,0.0,0.0,28.0,248.0,17.36,0.0,0.0
+menuItem,Alcohol,Alcoholic Milkshakes,Boozy Chocolate Blast Milkshake,,,Liquor,[],10.0,13.60,13.60,136.0,0.0,0.0,28.0,136.0,9.52,0.0,0.0
+menuItem,Alcohol,Alcoholic Milkshakes,Strawberry Smash Milkshake,,,Liquor,[],6.0,13.67,13.67,82.0,0.0,0.0,0.0,82.0,5.74,0.0,0.0
+menuItem,Alcohol,Alcoholic Milkshakes,Boozy PB Milkshake,,,Liquor,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+menuItem,Alcohol,Alcoholic Milkshakes,Boozy Cereal Milk,,,Liquor,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+"",Alcohol,Bottles,,,,,,44.0,20.00,,880.0,60.0,0.0,0.0,820.0,51.8,0.0,0.0
+menuItem,Alcohol,Bottles,White Label Sour,,,To-Go Beer,[],6.0,20.00,20.00,120.0,20.0,0.0,0.0,100.0,5.6,0.0,0.0
+specialRequest,Alcohol,Bottles,White Label Sour,,5 Glasses,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Bottles,White Label Apple,,,To-Go Beer,[],2.0,20.00,20.00,40.0,0.0,0.0,0.0,40.0,2.8,0.0,0.0
+menuItem,Alcohol,Bottles,White Label Apricot,,,To-Go Beer,[],5.0,20.00,20.00,100.0,20.0,0.0,0.0,80.0,5.6,0.0,0.0
+menuItem,Alcohol,Bottles,White Label Blackberry,,,To-Go Beer,[],8.0,20.00,20.00,160.0,20.0,0.0,0.0,140.0,9.8,0.0,0.0
+specialRequest,Alcohol,Bottles,White Label Blackberry,,2 Glasses,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Bottles,White Label Grape,,,To-Go Beer,[],4.0,20.00,20.00,80.0,0.0,0.0,0.0,80.0,4.2,0.0,0.0
+menuItem,Alcohol,Bottles,White Label Pineapple,,,To-Go Beer,[],7.0,20.00,20.00,140.0,0.0,0.0,0.0,140.0,7.0,0.0,0.0
+menuItem,Alcohol,Bottles,White Label Raspberry,,,To-Go Beer,[],8.0,20.00,20.00,160.0,0.0,0.0,0.0,160.0,11.2,0.0,0.0
+specialRequest,Alcohol,Bottles,White Label Raspberry,,2 Gl,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Bottles,White Label Strawberry,,,To-Go Beer,[],4.0,20.00,20.00,80.0,0.0,0.0,0.0,80.0,5.6,0.0,0.0
+"",Alcohol,Cans,,,,,,405.0,8.79,,3559.5,0.0,0.0,85.5,3559.5,216.59,0.0,0.0
+menuItem,Alcohol,Cans,(Can) Playa,,,Beer - Draft,[],79.0,7.97,7.97,629.5,0.0,0.0,17.0,629.5,39.02,0.0,0.0
+modifier,Alcohol,Cans,(Can) Playa,,"!!! DONT MAKE !!!",,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Cans,(Can) Playa,,Defective Top Partial Fill,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Cans,(Can) Playa,,Lime,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Cans,(Can) Lakeside Lounging,,,Beer - Draft,[],75.0,9.31,9.31,698.5,0.0,0.0,0.0,698.5,43.95,0.0,0.0
+menuItem,Alcohol,Cans,(Can) Uncurious NEIPA,,,Beer - Draft,[],0.0,0.00,0.00,0.0,0.0,0.0,9.5,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Cans,(Can) Citra Nelson Curious,,,Beer - Draft,[],42.0,9.21,9.21,387.0,0.0,0.0,0.0,387.0,24.95,0.0,0.0
+menuItem,Alcohol,Cans,(Can) Honeybear,,,Beer - Draft,[],46.0,9.28,9.28,427.0,0.0,0.0,0.0,427.0,26.52,0.0,0.0
+menuItem,Alcohol,Cans,(Can) Peach Apricot Dare,,,Beer - Draft,[],75.0,9.13,9.13,684.5,0.0,0.0,9.5,684.5,44.55,0.0,0.0
+menuItem,Alcohol,Cans,(Can) Oatmeal Stout,,,Beer - Draft,[],61.0,8.12,8.12,495.5,0.0,0.0,6.0,495.5,26.95,0.0,0.0
+modifier,Alcohol,Cans,(Can) Oatmeal Stout,,"!!! DONT MAKE !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Cans,(Can) Against the Currant,,,Beer - Draft,[],10.0,9.30,9.30,93.0,0.0,0.0,26.5,93.0,6.46,0.0,0.0
+menuItem,Alcohol,Cans,(Can) D-Light,,,Beer - Draft,[],17.0,8.50,8.50,144.5,0.0,0.0,17.0,144.5,4.19,0.0,0.0
+"",Alcohol,Drafts,,,,,,3157.0,7.44,,23473.0,10.9,0.0,609.0,23462.1,1449.21,0.0,0.0
+menuItem,Alcohol,Drafts,Beer Flight,,,Beer - Draft,[],54.0,16.61,4.61,897.0,0.0,0.0,0.0,897.0,55.65,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,Golden Rule,,[],44.0,2.00,2.00,88.0,0.0,0.0,0.0,88.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,80 Shilling,,[],23.0,2.00,2.00,46.0,0.0,0.0,0.0,46.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,All-In IPA,,[],29.0,2.00,2.00,58.0,0.0,0.0,0.0,58.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,The Dare (Gose),,[],28.0,2.00,2.00,56.0,0.0,0.0,0.0,56.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,Saratoga Vibes,,[],51.0,2.00,2.00,102.0,0.0,0.0,0.0,102.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,Brevity Wit,,[],36.0,2.00,2.00,72.0,0.0,0.0,0.0,72.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,Oktoberfest,,[],28.0,2.00,2.00,56.0,0.0,0.0,0.0,56.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,Uncurious,,[],33.0,2.00,2.00,66.0,0.0,0.0,0.0,66.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,The Finest Lager,,[],26.0,2.00,2.00,52.0,0.0,0.0,0.0,52.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,Pucker Pop,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Beer Flight,,Goose Guice,,[],25.0,2.00,2.00,50.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0
+menuItem,Alcohol,Drafts,Taste,,,Beer - Draft,[],54.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,Golden Rule Blonde,,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,Cider,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,80 Shilling,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,All-In IPA,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,The Dare (Gose),,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,Saratoga Vibes,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,Brevity WIt,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,Oktoberfest,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,Uncurious,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,The Finest Lager,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Drafts,Taste,,Goose Guice,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Drafts,Golden Rule,,,Beer - Draft,[],561.0,7.15,7.15,4011.0,10.0,0.0,352.0,4001.0,230.79,0.0,0.0
+menuItem,Alcohol,Drafts,Saratoga Vibes,,,Beer - Draft,[],266.0,7.50,7.50,1996.0,0.0,0.0,32.0,1996.0,128.03,0.0,0.0
+menuItem,Alcohol,Drafts,Uncurious,,,Beer - Draft,[],352.0,8.16,8.16,2874.0,0.0,0.0,27.0,2874.0,179.76,0.0,0.0
+modifier,Alcohol,Drafts,Uncurious,,"!!! DONT MAKE !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Drafts,All-in IPA,,,Beer - Draft,[],362.0,7.36,7.36,2665.0,0.0,0.0,24.0,2665.0,166.53,0.0,0.0
+menuItem,Alcohol,Drafts,The Dare (Gose),,,Beer - Draft,[],116.0,7.07,7.07,820.0,0.0,0.0,13.0,820.0,55.16,0.0,0.0
+menuItem,Alcohol,Drafts,Brevity Wit,,,Beer - Draft,[],180.0,7.42,7.42,1335.0,0.0,0.0,0.0,1335.0,85.47,0.0,0.0
+menuItem,Alcohol,Drafts,Goose Guice,,,Beer - Draft,[],85.0,8.36,8.36,711.0,0.9,0.0,9.0,710.1,46.76,0.0,0.0
+menuItem,Alcohol,Drafts,The Finest Lager,,,Beer - Draft,[],207.0,7.20,7.20,1491.0,0.0,0.0,80.0,1491.0,87.92,0.0,0.0
+modifier,Alcohol,Drafts,The Finest Lager,,"!!! DONT MAKE !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Drafts,80 Shilling,,,Beer - Draft,[],127.0,7.03,7.03,893.0,0.0,0.0,0.0,893.0,54.46,0.0,0.0
+menuItem,Alcohol,Drafts,Oktoberfest,,,Beer - Draft,[],509.0,7.23,7.23,3679.0,0.0,0.0,37.0,3679.0,225.05,0.0,0.0
+menuItem,Alcohol,Drafts,Indian Ladder Cider,,,Beer - Draft,[],239.0,7.70,7.70,1840.0,0.0,0.0,8.0,1840.0,117.25,0.0,0.0
+specialRequest,Alcohol,Drafts,Indian Ladder Cider,,Put In Druthers Pint Glass Pls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Drafts,10oz Golden Rule,,,Beer - Draft,[],4.0,3.75,3.75,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+menuItem,Alcohol,Drafts,10oz Saratoga Vibes,,,Beer - Draft,[],2.0,5.00,5.00,10.0,0.0,0.0,0.0,10.0,0.7,0.0,0.0
+menuItem,Alcohol,Drafts,10 oz Uncurious,,,Beer - Draft,[],7.0,7.00,7.00,49.0,0.0,0.0,0.0,49.0,3.43,0.0,0.0
+menuItem,Alcohol,Drafts,10oz All-In IPA,,,Beer - Draft,[],4.0,4.50,4.50,18.0,0.0,0.0,3.0,18.0,0.84,0.0,0.0
+menuItem,Alcohol,Drafts,10oz The Dare (Gose),,,Beer - Draft,[],2.0,4.50,4.50,9.0,0.0,0.0,6.0,9.0,0.63,0.0,0.0
+menuItem,Alcohol,Drafts,10oz Brevity WIt,,,Beer - Draft,[],2.0,6.00,6.00,12.0,0.0,0.0,0.0,12.0,0.84,0.0,0.0
+menuItem,Alcohol,Drafts,10 oz Goose Guice,,,Beer - Draft,[],1.0,7.00,7.00,7.0,0.0,0.0,0.0,7.0,0.49,0.0,0.0
+menuItem,Alcohol,Drafts,10 oz The Finest Lager,,,Beer - Draft,[],1.0,3.00,3.00,3.0,0.0,0.0,0.0,3.0,0.21,0.0,0.0
+menuItem,Alcohol,Drafts,10oz 80 Shilling,,,Beer - Draft,[],2.0,4.50,4.50,9.0,0.0,0.0,0.0,9.0,0.63,0.0,0.0
+menuItem,Alcohol,Drafts,10oz Oktoberfest,,,Beer - Draft,[],4.0,3.75,3.75,15.0,0.0,0.0,0.0,15.0,0.42,0.0,0.0
+menuItem,Alcohol,Drafts,10 oz Indian Ladder Cider,,,Beer - Draft,[],2.0,6.00,6.00,12.0,0.0,0.0,0.0,12.0,0.84,0.0,0.0
+menuItem,Alcohol,Drafts,Pucker Pop,,,Beer - Draft,[],14.0,7.29,7.29,102.0,0.0,0.0,18.0,102.0,6.3,0.0,0.0
+"",Alcohol,Gin Doubles,,,,,,9.0,17.78,,160.0,0.0,0.0,0.0,160.0,9.94,0.0,0.0
+menuItem,Alcohol,Gin Doubles,Four Gin DBL,,,Liquor,[],1.0,18.00,18.00,18.0,0.0,0.0,0.0,18.0,1.26,0.0,0.0
+modifier,Alcohol,Gin Doubles,Four Gin DBL,,Tonic,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Gin Doubles,Four Gin DBL,,LIME,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Gin Doubles,Hendricks DBL,,,Liquor,[],8.0,17.75,17.75,142.0,0.0,0.0,0.0,142.0,8.68,0.0,0.0
+modifier,Alcohol,Gin Doubles,Hendricks DBL,,Tonic,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Gin Doubles,Hendricks DBL,,LIME,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Gin Doubles,Hendricks DBL,,Ex Lime,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Alcohol,Gin,,,,,,41.0,10.54,,432.0,0.0,0.0,0.0,432.0,28.00,0.0,0.0
+menuItem,Alcohol,Gin,Well Gin,,,Liquor,[],10.0,7.40,7.40,74.0,0.0,0.0,0.0,74.0,4.34,0.0,0.0
+modifier,Alcohol,Gin,Well Gin,,Tonic,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Gin,Well Gin,,Tonic,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Gin,Hendricks,,,Liquor,[],18.0,11.33,11.33,204.0,0.0,0.0,0.0,204.0,13.58,0.0,0.0
+modifier,Alcohol,Gin,Hendricks,,Tonic,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Gin,Hendricks,,LIME,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Gin,Hendricks,,Tom Collins,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Gin,Four Gin,,,Liquor,[],13.0,11.85,11.85,154.0,0.0,0.0,0.0,154.0,10.08,0.0,0.0
+modifier,Alcohol,Gin,Four Gin,,Tonic,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Gin,Four Gin,,TALL,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Gin,Four Gin,,LIME,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Alcohol,Liqueurs & Cordials,,,,,,5.0,9.20,,46.0,0.0,0.0,0.0,46.0,2.52,0.0,0.0
+menuItem,Alcohol,Liqueurs & Cordials,Grand Marnier,,,Liquor,[],1.0,10.00,10.00,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+menuItem,Alcohol,Liqueurs & Cordials,Amaretto,,,Liquor,[],1.0,6.00,6.00,6.0,0.0,0.0,0.0,6.0,0.42,0.0,0.0
+specialRequest,Alcohol,Liqueurs & Cordials,Amaretto,,Sour,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Liqueurs & Cordials,Irish Cream,,,Liquor,[],2.0,11.00,8.00,22.0,0.0,0.0,0.0,22.0,1.54,0.0,0.0
+specialRequest,Alcohol,Liqueurs & Cordials,Irish Cream,,Boozy Milkshake,,[],1.0,6.00,6.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+menuItem,Alcohol,Liqueurs & Cordials,Aperol,,,Liquor,[],1.0,8.00,8.00,8.0,0.0,0.0,0.0,8.0,0.56,0.0,0.0
+specialRequest,Alcohol,Liqueurs & Cordials,Aperol,,Sprits,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Alcohol,Mug Club- MC,,,,,,36.0,6.81,,245.0,0.0,0.0,8.0,245.0,15.54,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,Golden Rule Blonde- MC,,,Beer - Draft,[],4.0,5.75,5.75,23.0,0.0,0.0,0.0,23.0,1.61,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,Saratoga Vibes - MC,,,Beer - Draft,[],2.0,6.50,6.50,13.0,0.0,0.0,0.0,13.0,0.91,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,Uncurious- MC,,,Beer - Draft,[],4.0,7.50,7.50,30.0,0.0,0.0,0.0,30.0,2.1,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,All-In IPA- MC,,,Beer - Draft,[],8.0,5.75,5.75,46.0,0.0,0.0,0.0,46.0,2.52,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,The Dare- MC,,,Beer - Draft,[],6.0,8.00,8.00,48.0,0.0,0.0,0.0,48.0,2.8,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,Goose Juice-MC,,,Beer - Draft,[],1.0,9.00,9.00,9.0,0.0,0.0,0.0,9.0,0.63,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,The Finest Lager- MC,,,Beer - Draft,[],3.0,5.00,5.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,Scottish-Style 80- MC,,,Beer - Draft,[],0.0,0.00,0.00,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Mug Club- MC,Scottish-Style 80- MC,,Sept Mug Club,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Mug Club- MC,Oktoberfest- MC,,,Beer - Draft,[],8.0,7.63,7.63,61.0,0.0,0.0,0.0,61.0,3.92,0.0,0.0
+"",Alcohol,Rum Doubles,,,,,,3.0,14.33,,43.0,0.0,0.0,0.0,43.0,2.1,0.0,0.0
+menuItem,Alcohol,Rum Doubles,Bacardi DBL,,,Liquor,[],1.0,13.00,13.00,13.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0
+menuItem,Alcohol,Rum Doubles,Captain Morgan DBL,,,Liquor,[],2.0,15.00,15.00,30.0,0.0,0.0,0.0,30.0,2.1,0.0,0.0
+modifier,Alcohol,Rum Doubles,Captain Morgan DBL,,Coke,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Alcohol,Rum,,,,,,28.0,9.50,,266.0,0.0,0.0,0.0,266.0,15.12,0.0,0.0
+menuItem,Alcohol,Rum,Well Rum,,,Liquor,[],2.0,9.00,8.00,18.0,0.0,0.0,0.0,18.0,1.26,0.0,0.0
+modifier,Alcohol,Rum,Well Rum,,Margarita,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+menuItem,Alcohol,Rum,Bacardi,,,Liquor,[],7.0,10.00,9.43,70.0,0.0,0.0,0.0,70.0,4.9,0.0,0.0
+modifier,Alcohol,Rum,Bacardi,,Moscow Mule,,[],2.0,2.00,2.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+menuItem,Alcohol,Rum,Captain Morgan,,,Liquor,[],17.0,9.29,9.29,158.0,0.0,0.0,0.0,158.0,8.26,0.0,0.0
+modifier,Alcohol,Rum,Captain Morgan,,Coke,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Rum,Captain Morgan,,Diet Coke,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Rum,Captain Morgan,,TALL,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Rum,Sandy Cay Coconut,,,Liquor,[],2.0,10.00,10.00,20.0,0.0,0.0,0.0,20.0,0.7,0.0,0.0
+specialRequest,Alcohol,Rum,Sandy Cay Coconut,,Bay Breeze,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Alcohol,Scotch,,,,,,8.0,10.38,,83.0,0.0,0.0,0.0,83.0,5.81,0.0,0.0
+menuItem,Alcohol,Scotch,Dewars,,,Liquor,[],7.0,9.71,9.71,68.0,0.0,0.0,0.0,68.0,4.76,0.0,0.0
+modifier,Alcohol,Scotch,Dewars,,ROCKS,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Scotch,Dewars,,Sour,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Scotch,Dewars,,Splash Water Rocks,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Scotch,Dewars,,Splash water,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Scotch,Johnnie Black,,,Liquor,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+modifier,Alcohol,Scotch,Johnnie Black,,ROCKS,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Alcohol,Tequila Doubles,,,,,,1.0,15.00,,15.0,0.0,0.0,45.0,15.0,1.05,0.0,0.0
+menuItem,Alcohol,Tequila Doubles,Espolon Blanco DBL,,,Liquor,[],1.0,15.00,15.00,15.0,0.0,0.0,45.0,15.0,1.05,0.0,0.0
+"",Alcohol,Tequila,,,,,,98.0,11.35,,1112.0,0.0,0.0,0.0,1112.0,61.74,0.0,0.0
+menuItem,Alcohol,Tequila,Well Tequila,,,Liquor,[],24.0,9.83,7.92,236.0,0.0,0.0,0.0,236.0,16.52,0.0,0.0
+modifier,Alcohol,Tequila,Well Tequila,,ROCKS,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Well Tequila,,SALT,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Well Tequila,,Margarita,,[],20.0,2.00,2.00,40.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Well Tequila,,Spicy Margarita,,[],2.0,3.00,3.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+menuItem,Alcohol,Tequila,One With Life Tequila,,,Liquor,[],3.0,14.00,11.33,42.0,0.0,0.0,0.0,42.0,2.94,0.0,0.0
+modifier,Alcohol,Tequila,One With Life Tequila,,ROCKS,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,One With Life Tequila,,SALT,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,One With Life Tequila,,Margarita,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,One With Life Tequila,,Spicy Margarita,,[],2.0,3.00,3.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+menuItem,Alcohol,Tequila,Casamigos Blanco,,,Liquor,[],45.0,12.36,11.69,556.0,0.0,0.0,0.0,556.0,27.3,0.0,0.0
+modifier,Alcohol,Tequila,Casamigos Blanco,,Club Soda,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Casamigos Blanco,,Pineapple Juice,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Casamigos Blanco,,Grapefruit Juice,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Casamigos Blanco,,SALT,,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Casamigos Blanco,,LIME,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Casamigos Blanco,,Margarita,,[],12.0,2.00,2.00,24.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Casamigos Blanco,,Spicy Margarita,,[],2.0,3.00,3.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+menuItem,Alcohol,Tequila,Espolon Blanco,,,Liquor,[],26.0,10.69,9.85,278.0,0.0,0.0,0.0,278.0,14.98,0.0,0.0
+modifier,Alcohol,Tequila,Espolon Blanco,,Club Soda,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Espolon Blanco,,Tonic,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Espolon Blanco,,ROCKS,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Espolon Blanco,,SALT,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Espolon Blanco,,LIME,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Tequila,Espolon Blanco,,Margarita,,[],11.0,2.00,2.00,22.0,0.0,0.0,0.0,22.0,0.0,0.0,0.0
+specialRequest,Alcohol,Tequila,Espolon Blanco,,Skinny,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Tequila,Espolon Blanco,,Splash Lime Juice,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Alcohol,Vodka Doubles,,,,,,26.0,14.65,,381.0,0.0,0.0,45.0,381.0,25.62,0.0,0.0
+menuItem,Alcohol,Vodka Doubles,Western Son Cucumber DBL,,,Liquor,[],1.0,16.00,16.00,16.0,0.0,0.0,0.0,16.0,1.12,0.0,0.0
+menuItem,Alcohol,Vodka Doubles,Titos DBL,,,Liquor,[],25.0,14.60,14.44,365.0,0.0,0.0,45.0,365.0,24.5,0.0,0.0
+modifier,Alcohol,Vodka Doubles,Titos DBL,,Club Soda,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka Doubles,Titos DBL,,Cranberry Juice,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka Doubles,Titos DBL,,LIME,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka Doubles,Titos DBL,,LEMON,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka Doubles,Titos DBL,,Cosmopolitan,,[],2.0,2.00,2.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+"",Alcohol,Vodka,,,,,,219.0,10.52,,2304.0,0.0,0.0,12.0,2304.0,152.04,0.0,0.0
+menuItem,Alcohol,Vodka,Well Vodka,,,Liquor,[],21.0,7.81,7.81,164.0,0.0,0.0,0.0,164.0,9.94,0.0,0.0
+modifier,Alcohol,Vodka,Well Vodka,,Club Soda,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Well Vodka,,Cranberry Juice,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Well Vodka,,TALL,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Vodka,Well Vodka,,Dry Martini,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Vodka,Western Son Blueberry,,,Liquor,[],8.0,12.00,12.00,96.0,0.0,0.0,0.0,96.0,6.72,0.0,0.0
+modifier,Alcohol,Vodka,Western Son Blueberry,,Iced Tea,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Vodka,Western Cucumber,,,Liquor,[],9.0,12.00,12.00,108.0,0.0,0.0,12.0,108.0,7.56,0.0,0.0
+modifier,Alcohol,Vodka,Western Cucumber,,Club Soda,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Vodka,Western Cucumber,,Cool As You Can,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Vodka,Western Son Raspberry,,,Liquor,[],2.0,12.00,12.00,24.0,0.0,0.0,0.0,24.0,1.68,0.0,0.0
+menuItem,Alcohol,Vodka,Titos,,,Liquor,[],141.0,10.43,9.77,1470.0,0.0,0.0,0.0,1470.0,97.72,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Club Soda,,[],17.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Tonic,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Cranberry Juice,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Ginger Beer,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,LIME,,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,LEMON,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Splash Cranberry,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Bloody Mary,,[],9.0,2.00,2.00,18.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Cosmopolitan,,[],8.0,2.00,2.00,16.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,White Russian,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Spicy Bloody Mary,,[],2.0,3.00,3.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Moscow Mule,,[],18.0,2.00,2.00,36.0,0.0,0.0,0.0,36.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Titos,,Sparking Strawberry Lemonade,,[],3.0,4.00,4.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+specialRequest,Alcohol,Vodka,Titos,,Less Cran,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Vodka,Titos,,Sub Blqck Russian,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Vodka,Ketel One,,,Liquor,[],36.0,11.61,11.33,418.0,0.0,0.0,0.0,418.0,27.58,0.0,0.0
+modifier,Alcohol,Vodka,Ketel One,,Club Soda,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Ketel One,,ROCKS,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Ketel One,,LIME,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Ketel One,,ORANGE,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Ketel One,,Cosmopolitan,,[],4.0,2.00,2.00,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Ketel One,,EXTRA Cosmopolitan,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+specialRequest,Alcohol,Vodka,Ketel One,,In Pint Glass,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Vodka,Ketel One,,Orange Slice,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Vodka,Western Son Watermelon,,,Liquor,[],1.0,12.00,12.00,12.0,0.0,0.0,0.0,12.0,0.84,0.0,0.0
+menuItem,Alcohol,Vodka,Snowshoe Vodka,,,Liquor,[],1.0,12.00,10.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+modifier,Alcohol,Vodka,Snowshoe Vodka,,Moscow Mule,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+"",Alcohol,Whiskey Doubles,,,,,,10.0,17.40,,174.0,0.0,0.0,0.0,174.0,12.18,0.0,0.0
+menuItem,Alcohol,Whiskey Doubles,Jack Daniels DBL,,,Liquor,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+menuItem,Alcohol,Whiskey Doubles,Jameson DBL,,,Liquor,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+menuItem,Alcohol,Whiskey Doubles,Makers Mark DBL,,,Liquor,[],4.0,18.00,18.00,72.0,0.0,0.0,0.0,72.0,5.04,0.0,0.0
+menuItem,Alcohol,Whiskey Doubles,Springbrook Rye DBL,,,Liquor,[],1.0,18.00,18.00,18.0,0.0,0.0,0.0,18.0,1.26,0.0,0.0
+menuItem,Alcohol,Whiskey Doubles,Woodford Reserve DBL,,,Liquor,[],3.0,18.00,18.00,54.0,0.0,0.0,0.0,54.0,3.78,0.0,0.0
+"",Alcohol,Whiskey,,,,,,134.0,10.33,,1384.0,0.0,0.0,0.0,1384.0,74.48,0.0,0.0
+menuItem,Alcohol,Whiskey,Well Whiskey,,,Liquor,[],5.0,8.00,8.00,40.0,0.0,0.0,0.0,40.0,2.8,0.0,0.0
+modifier,Alcohol,Whiskey,Well Whiskey,,Coke,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Whiskey,Jack Daniels,,,Liquor,[],16.0,9.50,9.50,152.0,0.0,0.0,0.0,152.0,6.58,0.0,0.0
+modifier,Alcohol,Whiskey,Jack Daniels,,Coke,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Whiskey,Jack Daniels,,Diet Coke,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Whiskey,Jack Daniels,,No Fruit,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Whiskey,Jameson,,,Liquor,[],51.0,9.45,9.45,482.0,0.0,0.0,0.0,482.0,29.54,0.0,0.0
+modifier,Alcohol,Whiskey,Jameson,,Ginger Ale,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Whiskey,Jameson,,NEAT,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Whiskey,Makers Mark,,,Liquor,[],27.0,11.85,11.56,320.0,0.0,0.0,0.0,320.0,15.54,0.0,0.0
+modifier,Alcohol,Whiskey,Makers Mark,,Coke,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Whiskey,Makers Mark,,Diet Coke,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Alcohol,Whiskey,Makers Mark,,Margarita,,[],4.0,2.00,2.00,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+menuItem,Alcohol,Whiskey,Springbrook Bourbon,,,Liquor,[],2.0,12.00,12.00,24.0,0.0,0.0,0.0,24.0,1.68,0.0,0.0
+modifier,Alcohol,Whiskey,Springbrook Bourbon,,ROCKS,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Whiskey,Springbrook Rye,,,Liquor,[],7.0,11.71,11.43,82.0,0.0,0.0,0.0,82.0,4.06,0.0,0.0
+modifier,Alcohol,Whiskey,Springbrook Rye,,Moscow Mule,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+specialRequest,Alcohol,Whiskey,Springbrook Rye,,Sour,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Whiskey,Woodford Reserve,,,Liquor,[],22.0,11.36,11.36,250.0,0.0,0.0,0.0,250.0,11.9,0.0,0.0
+modifier,Alcohol,Whiskey,Woodford Reserve,,ROCKS,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Whiskey,Skrewball,,,Liquor,[],4.0,8.50,8.50,34.0,0.0,0.0,0.0,34.0,2.38,0.0,0.0
+"",Alcohol,Wine by the Bottle,,,,,,4.0,34.25,,137.0,0.0,0.0,0.0,137.0,9.59,0.0,0.0
+menuItem,Alcohol,Wine by the Bottle,Replica Cabernet Sauvignon (bottle),,,Wine,[],1.0,35.00,35.00,35.0,0.0,0.0,0.0,35.0,2.45,0.0,0.0
+menuItem,Alcohol,Wine by the Bottle,Cavazza Pinot Grigio (bottle),,,Wine,[],1.0,32.00,32.00,32.0,0.0,0.0,0.0,32.0,2.24,0.0,0.0
+specialRequest,Alcohol,Wine by the Bottle,Cavazza Pinot Grigio (bottle),,2glasses,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Wine by the Bottle,Marlborough Sauvignon Blanc (bottle),,,Wine,[],2.0,35.00,35.00,70.0,0.0,0.0,0.0,70.0,4.9,0.0,0.0
+"",Alcohol,Wine by the Glass,,,,,,312.0,10.01,,3124.0,0.0,0.0,0.0,3124.0,203.21,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,Saddlebred Pinot Noir,,,Wine,[],27.0,8.41,8.41,227.0,0.0,0.0,0.0,227.0,15.26,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,14 Hands Red Blend,,,Wine,[],15.0,9.73,9.73,146.0,0.0,0.0,0.0,146.0,10.22,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,Replica Cabernet Sauvignon,,,Wine,[],42.0,9.76,9.76,410.0,0.0,0.0,0.0,410.0,25.9,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,Cavazza Prosecco,,,Wine,[],46.0,11.61,11.61,534.0,0.0,0.0,0.0,534.0,35.14,0.0,0.0
+specialRequest,Alcohol,Wine by the Glass,Cavazza Prosecco,,Mimosa,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Alcohol,Wine by the Glass,Cavazza Prosecco,,Mimosa - Pineapple,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,Cavazza Pinot Grigio,,,Wine,[],55.0,8.89,8.89,489.0,0.0,0.0,0.0,489.0,31.71,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,Marlborough Sauvignon Blanc,,,Wine,[],51.0,9.41,9.41,480.0,0.0,0.0,0.0,480.0,33.6,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,St. Michelle  Riesling,,,Wine,[],23.0,9.83,9.83,226.0,0.0,0.0,0.0,226.0,14.42,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,J Lohr Chardonnay,,,Wine,[],52.0,11.58,11.58,602.0,0.0,0.0,0.0,602.0,36.26,0.0,0.0
+menuItem,Alcohol,Wine by the Glass,Swan en Blanc Riesling,,,Wine,[],1.0,10.00,10.00,10.0,0.0,0.0,0.0,10.0,0.7,0.0,0.0
+"",All Day Food Menu,,,,,,,4455.0,15.47,,68898.5,180.10,0.0,357.0,68718.40,4800.90,0.0,0.0
+"",All Day Food Menu,Sharing,,,,,,923.0,15.94,,14709.5,32.75,0.0,85.0,14676.75,1025.03,0.0,0.0
+menuItem,All Day Food Menu,Sharing,Street Corn Dip,,,Food,[],137.0,13.77,13.77,1886.0,0.0,0.0,26.0,1886.0,132.02,0.0,0.0
+modifier,All Day Food Menu,Sharing,Street Corn Dip,,RUSH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Street Corn Dip,,Ethan,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Street Corn Dip,,No Scallion,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sharing,Beer Cheese Dip,,,Food,[],220.0,15.78,15.76,3471.0,0.0,0.0,0.0,3471.0,242.97,0.0,0.0
+modifier,All Day Food Menu,Sharing,Beer Cheese Dip,,NO Scallions,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Beer Cheese Dip,,"!!! NUT ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Beer Cheese Dip,,RUSH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Beer Cheese Dip,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Beer Cheese Dip,,Extra Cheese Dip. 2 Total,,[],1.0,3.00,3.00,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Beer Cheese Dip,,Sire Mustard Too,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sharing,Meatballs,,,Food,[],42.0,13.76,13.76,578.0,0.0,0.0,12.0,578.0,40.46,0.0,0.0
+modifier,All Day Food Menu,Sharing,Meatballs,,RUSH,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Meatballs,,Sauce On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sharing,Cracked Burrata,,,Food,[],45.0,15.69,15.69,706.0,4.0,0.0,0.0,702.0,49.14,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Cracked Burrata,,Extra Baquette,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Cracked Burrata,,Extra Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sharing,3 Layer Nachos,,,Food,[],136.0,17.76,17.76,2416.0,0.0,0.0,18.0,2416.0,169.12,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,"!!! DONT MAKE !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,NO Scallions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,NO Pico de Gallo,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,NO Jalapeno Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,Jalapeno Ranch ON SIDE ONLY,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,RUSH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,NO Pickled Red Onions,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,NO Candied Jalapenos,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,Candied Jalapenos ON SIDE ONLY,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,3 Layer Nachos,,No Beef,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,3 Layer Nachos,,2 Sides Sour Cream,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,3 Layer Nachos,,Beef On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,3 Layer Nachos,,Beef On Side Only,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,3 Layer Nachos,,Just Cheese Beef Tomatoes And Sour Cream Pls Before Salads,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sharing,Boneless,,,Food,[],153.0,16.04,16.00,2454.5,28.0,0.0,12.0,2426.5,168.8,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Extra Crispy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Add Side Blue Cheese,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Add Side Ranch,,[],11.0,0.50,0.50,5.5,0.0,0.0,0.0,5.5,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Buffalo,,[],78.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Buffalo ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,BBQ,,[],24.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,BBQ ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Dry,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,1/2 Buffalo,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,1/2 BBQ,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,TO GO,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,No Side Sauce,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Blue Cheese,,[],105.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,EXTRA Blue Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Alabama,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Alabama ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Asian BBQ,,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Asian BBQ ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Mango Haberno,,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Mango Haberno ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,1/2 Alabama,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,1/2 Asian BBQ,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,1/2 Mango Haberno,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Ranch,,[],49.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Ranch ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,Nashville Hot,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Boneless,,1/2 Nashville Hot,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Boneless,,Dry Boneless,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Boneless,,Extra Blue Cheese -  Lisa,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Boneless,,Extraaa Saucey Chix Pls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Boneless,,Mix Sauces,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Boneless,,Mix With Bbq,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Boneless,,Toss Bbq N Buff Together Pls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Boneless,,With Chx Sand,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sharing,Traditional,,,Food,[],187.0,17.05,17.00,3189.0,0.0,0.0,17.0,3189.0,221.94,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Extra Crispy,,[],12.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Add Side Blue Cheese,,[],7.0,0.50,0.50,3.5,0.0,0.0,0.0,3.5,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Add Side Ranch,,[],12.0,0.50,0.50,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Buffalo,,[],89.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Buffalo ON SIDE ONLY,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,BBQ,,[],27.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,BBQ ON SIDE ONLY,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Dry,,[],10.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,1/2 Buffalo,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,1/2 BBQ,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,1/2 Dry,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,RUSH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,No Side Sauce,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,ADD ON SIDE No Side Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Blue Cheese,,[],148.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Blue Cheese ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,ADD ON SIDE Blue Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Alabama,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Alabama ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Asian BBQ,,[],12.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Asian BBQ ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Mango Haberno,,[],18.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Mango Haberno ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,1/2 Alabama,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,1/2 Asian BBQ,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,1/2 Mango Haberno,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Ranch,,[],38.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Nashville Hot,,[],10.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,Nashville Hot ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sharing,Traditional,,1/2 Nashville Hot,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Traditional,,2 Bluebcheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Traditional,,Add Side Mango,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Traditional,,All Flat,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Traditional,,Crispy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Traditional,,Extra Sd Buffalo,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Traditional,,Extra Sos,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Traditional,,Side Asian Bbq Too,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sharing,Traditional,,Xtra Saucy,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sharing,Tortilla Chip Refill,,,Food,[],3.0,3.00,3.00,9.0,0.75,0.0,0.0,8.25,0.58,0.0,0.0
+"",All Day Food Menu,Tacos,,,,,,425.0,15.52,,6594.0,22.35,0.0,79.0,6571.65,458.89,0.0,0.0
+menuItem,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,,Food,[],108.0,15.00,15.00,1620.5,7.5,0.0,15.0,1613.0,112.91,0.0,0.0
+modifier,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,ADD SIDE Jalapeno Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,EXTRA Buffalo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,Buffalo ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,NO Pico de Gallo,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,"!!! NUT ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,"!!! SHELLFISH ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,TO GO,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,EXTRA Sour Cream,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,Extra Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,No Tortilla,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,Put Toppings In 4 Ounce Containers,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Buffalo Chicken Tacos,,Sub Bbq,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Tacos,Shrimp Tacos,,,Food,[],123.0,16.00,16.00,1968.0,5.6,0.0,0.0,1962.4,137.37,0.0,0.0
+modifier,All Day Food Menu,Tacos,Shrimp Tacos,,Pico de Gallo ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Shrimp Tacos,,NO Jalapeno Ranch,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Shrimp Tacos,,Jalapeno Ranch ON SIDE ONLY,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Shrimp Tacos,,ADD Pickled Red Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Shrimp Tacos,,Sour Cream ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Shrimp Tacos,,Add Reg Ranch,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Shrimp Tacos,,Blackened Pls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Shrimp Tacos,,SUB REGULAR RANCH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Shrimp Tacos,,Side Cherry Peppers,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Shrimp Tacos,,Sub Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Shrimp Tacos,,Sub Reg Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Tacos,Beef Meximelt Tacos,,,Food,[],99.0,15.01,15.00,1485.5,5.25,0.0,0.0,1480.25,103.61,0.0,0.0
+modifier,All Day Food Menu,Tacos,Beef Meximelt Tacos,,NO Pico de Gallo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Beef Meximelt Tacos,,NO Jalapeno Ranch,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Beef Meximelt Tacos,,NO Lettuce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Beef Meximelt Tacos,,ADD Sour Cream,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Beef Meximelt Tacos,,ADD ON SIDE Sour Cream,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Beef Meximelt Tacos,,ADD SIDE Sour cream,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Beef Meximelt Tacos,,One W No Pico,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Beef Meximelt Tacos,,Side Of Beer Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Beef Meximelt Tacos,,Sub Sour Cream For Jal Ranvh,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Beef Meximelt Tacos,,Togo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,,Food,[],95.0,16.00,16.00,1520.0,4.0,0.0,64.0,1516.0,105.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,Pico de Gallo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,NO Pickled Red Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,NO Cabbage Slaw,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,NO Charred Pineapple Puree,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,Al Pastor Marinade Os,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,Extra Sour Cream On Side,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,Pulled Pork Coleslaw Bbq On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Tacos,Pork Belly Al Pastor Tacos,,Sub Tortilla Chips For Jenna Thank You!,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",All Day Food Menu,Flatbreads,,,,,,193.0,14.59,,2815.0,22.50,0.0,28.0,2792.50,195.48,0.0,0.0
+menuItem,All Day Food Menu,Flatbreads,Cheese,,,Food,[],43.0,13.09,13.00,563.0,0.0,0.0,13.0,563.0,39.41,0.0,0.0
+modifier,All Day Food Menu,Flatbreads,Cheese,,ADD Chopped Bacon,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Flatbreads,Cheese,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Cheese,,Add Tomatoes,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Cheese,,Goes Witb 193,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Cheese,,LONG TIME OVER COOKED COMPLAINT,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Flatbreads,Pepperoni,,,Food,[],22.0,15.00,15.00,330.0,3.75,0.0,0.0,326.25,22.84,0.0,0.0
+modifier,All Day Food Menu,Flatbreads,Pepperoni,,Hot Honey,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Pepperoni,,Crispy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Pepperoni,,Extra Crispy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Flatbreads,Monkey Bread Mix,,,Food,[],44.0,15.00,15.00,660.0,0.0,0.0,0.0,660.0,46.2,0.0,0.0
+modifier,All Day Food Menu,Flatbreads,Monkey Bread Mix,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Monkey Bread Mix,,"Extra Crispy , Add Greens At End",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Flatbreads,Angry Bee,,,Food,[],42.0,15.00,15.00,630.0,3.75,0.0,15.0,626.25,43.84,0.0,0.0
+modifier,All Day Food Menu,Flatbreads,Angry Bee,,ADD Bacon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Flatbreads,Angry Bee,,Hot Honey ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Angry Bee,,ADD Meatball,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Angry Bee,,On Side Only Jalapenos,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Flatbreads,Angry Bee,,Well Done,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Flatbreads,Meatball,,,Food,[],42.0,15.05,15.00,632.0,15.0,0.0,0.0,617.0,43.19,0.0,0.0
+modifier,All Day Food Menu,Flatbreads,Meatball,,ADD Pepperoni,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+"",All Day Food Menu,Greens,,,,,,475.0,18.59,,8831.0,0.0,0.0,28.0,8831.0,616.70,0.0,0.0
+menuItem,All Day Food Menu,Greens,Apple Gorgonzola Salad,,,Food,[],119.0,18.08,14.00,2151.0,0.0,0.0,0.0,2151.0,149.1,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,SPOON,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,No Dressing,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Dressing On Side,,[],15.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,EXTRA Dressing On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Sub Ranch Dressing,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Add Chicken,,[],43.0,7.00,7.00,301.0,0.0,0.0,0.0,301.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Add Shrimp,,[],6.0,9.00,9.00,54.0,0.0,0.0,0.0,54.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Add Salmon,,[],6.0,11.00,11.00,66.0,0.0,0.0,0.0,66.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Add Chopped Bacon,,[],1.0,4.00,4.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,"!!! NUT ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Walnuts ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,ADD Steak,,[],5.0,12.00,12.00,60.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,ADD Cucumbers,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,ADD Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,NO Mixed Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,NO Gorgonzola,,[],10.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Goat Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Apple Gorgonzola Salad,,ADD Goat Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,And Balsamic On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Blackened Chicken,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Extra Dressing  On The Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Lemon Dijon On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Mozarella,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,No Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,No Nuts No Gorg,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Salmon Well Done,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Spoon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Apple Gorgonzola Salad,,Well Done Steak,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Greens,Baby Kale Caesar Salad,,,Food,[],93.0,19.78,14.00,1840.0,0.0,0.0,0.0,1840.0,128.8,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,SPOON,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Dressing On Side,,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,ADD Dressing On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Add Chicken,,[],40.0,7.00,7.00,280.0,0.0,0.0,0.0,280.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Add Shrimp,,[],5.0,9.00,9.00,45.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Add Salmon,,[],11.0,11.00,11.00,121.0,0.0,0.0,0.0,121.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Add Chopped Bacon,,[],2.0,4.00,4.00,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,NO Croutons,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,NO Grapes,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Grapes ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,ADD Steak,,[],7.0,12.00,12.00,84.0,0.0,0.0,0.0,84.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Sub Lemon Dijon Vinaigrette,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,ADD Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,NO Kale,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Baby Kale Caesar Salad,,ADD Apples,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Blackened Pls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Go W Rest Of 177 Pls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Lemon Dijon And Balsamic On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,MED RARE,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Med Rare,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Med Well,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Medium Salmon ?,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Mid,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,No Kale Sub Mixed Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,No Kale Sub Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Slacie,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Spoon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Sub Med Grrens Salad Extra Dos,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Sub Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Baby Kale Caesar Salad,,Well Done,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Greens,Mediterranean Grains Salad,,,Food,[],135.0,18.80,14.00,2538.0,0.0,0.0,0.0,2538.0,177.66,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,SPOON,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Dressing On Side,,[],16.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,EXTRA Dressing On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Dressing On Side ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Sub Balsamic Dressing,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Sub Ranch Dressing,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Add Chicken,,[],39.0,7.00,7.00,273.0,0.0,0.0,0.0,273.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Add Shrimp,,[],7.0,9.00,9.00,63.0,0.0,0.0,0.0,63.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Add Salmon,,[],24.0,11.00,11.00,264.0,0.0,0.0,0.0,264.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,"!!! NUT ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,NO Crispy Chickpeas,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,NO Feta Cheese,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Feta Cheese ON SIDE ONLY,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,NO Red Onion,,[],13.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,ADD Steak,,[],4.0,12.00,12.00,48.0,0.0,0.0,0.0,48.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,NO Olives,,[],12.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,EXTRA Olives,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,Olives ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,NO Artichoke Hearts,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,NO Tabouli,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Mediterranean Grains Salad,,NO Roasted Tomatoes,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Add Side Of Red Wine Vin,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Extra Dressing On Side,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Med Rare,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Medium,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Medium Salmon?,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Mid,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Salmon Med Well,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Side Vinagrette Also Pls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Split Two Boowls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Sub Kale,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,Mediterranean Grains Salad,,Vegan Pls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Greens,BLT Wedge Salad,,,Food,[],69.0,17.36,15.00,1198.0,0.0,0.0,0.0,1198.0,83.86,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,Dressing On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,NO Dressing On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,Sub Caesar Dressing,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,Sub Caesar Dressing ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,Sub Ranch Dressing,,[],10.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,Add Chicken,,[],10.0,7.00,7.00,70.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,Add Shrimp,,[],3.0,9.00,9.00,27.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,ADD ON SIDE Add Shrimp,,[],1.0,9.00,9.00,9.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,Add Salmon,,[],3.0,11.00,11.00,33.0,0.0,0.0,0.0,33.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,"!!! DAIRY ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,NO Pickled Red Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,ADD Steak,,[],2.0,12.00,12.00,24.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,Sub Lemon Dijon Vinaigrette,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,ADD Gorgonzola,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,NO Gorgonzola,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,No Crispy Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,NO No Crispy Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,NO Roasted Tomatoes,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,BLT Wedge Salad,,No Chopped Bacon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,Add American,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,Bacon On Sideonly Extra Extra Crispy Bacon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,Chopped? Please,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,Med Rare,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,Medium,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,No Bleu,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,No Dressing!! Sub Side Mayo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,No Toms,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,Sub Shredded Mozz,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,WALNUT ALLERGY!!!,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Greens,BLT Wedge Salad,,Well Done Shrimp,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Greens,Strawberry Fields Salad,,,Food,[],59.0,18.71,14.00,1104.0,0.0,0.0,28.0,1104.0,77.28,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,SPOON,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,Dressing On Side,,[],12.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,Sub Balsamic Dressing,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,Sub Balsamic Dressing ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,Add Chicken,,[],19.0,7.00,7.00,133.0,0.0,0.0,0.0,133.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,Add Shrimp,,[],2.0,9.00,9.00,18.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,Add Salmon,,[],9.0,11.00,11.00,99.0,0.0,0.0,0.0,99.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,Add Chopped Bacon,,[],1.0,4.00,4.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,"!!! GLUTEN ALLERGY !!!",,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,"!!! NUT ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,NO Feta Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,ADD Parmesan,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,NO Walnuts,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,ADD Steak,,[],2.0,12.00,12.00,24.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,NO Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,ADD Mixed Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,NO Goat Cheese,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Greens,Strawberry Fields Salad,,Goat Cheese ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",All Day Food Menu,On A Bun,,,,,,1140.0,16.37,,18665.0,59.50,0.0,96.0,18605.50,1302.30,0.0,0.0
+menuItem,All Day Food Menu,On A Bun,The Burger,,,Food,[],463.0,17.93,17.00,8303.5,18.25,0.0,34.0,8285.25,579.94,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD SIDE Blue Cheese,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD SIDE Jalapeno Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Add Side Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD ON SIDE Alabama White,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Fries,,[],384.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Greens,,[],75.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Coleslaw,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,No Bun,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Sub GF Bun,,[],13.0,2.00,2.00,26.0,0.0,0.0,0.0,26.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD SIDE Beer Cheese,,[],3.0,0.50,0.50,1.5,0.0,0.0,0.0,1.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,"!!! GLUTEN ALLERGY !!!",,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,"!!! DAIRY ALLERGY !!!",,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,RUSH,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Parmesan,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,American Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO American Cheese,,[],21.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,EXTRA American Cheese,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Cheddar Cheese,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Cheddar Cheese,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Pickles,,[],41.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,EXTRA Pickles,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Pickles ON SIDE ONLY,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Burger Sauce,,[],15.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Burger Sauce ON SIDE ONLY,,[],11.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD ON SIDE Burger Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Mayo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD ON SIDE Mayo,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Tomato,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Tomato,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Tomato,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Raw Red Onion,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Raw Red Onion,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Chopped Bacon,,[],34.0,2.00,2.00,68.0,0.0,0.0,0.0,68.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Chopped Bacon,,[],30.0,2.00,2.00,60.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Bacon,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Lettuce,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Lettuce,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Lettuce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Fried Egg,,[],11.0,1.00,1.00,11.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Fried Egg,,[],24.0,1.00,1.00,24.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Fried Egg,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,L-T-O,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD L-T-O,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO L-T-O,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Fried Onion Straws,,[],54.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Caramelized Onions,,[],17.0,1.00,1.00,17.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Caramelized Onions,,[],12.0,1.00,1.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Caramelized Onions,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Candied Jalapenos,,[],17.0,1.00,1.00,17.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Candied Jalapenos,,[],15.0,1.00,1.00,15.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Candied Jalapenos ON SIDE ONLY,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD ON SIDE Candied Jalapenos,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Extra Patty,,[],5.0,4.00,4.00,20.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Extra Patty,,[],2.0,4.00,4.00,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,NO Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Gruyere Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD SIDE Burger Sauce,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Make It Ugly,,[],35.0,4.00,4.00,140.0,0.0,0.0,0.0,140.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD Make It Ugly,,[],1.0,4.00,4.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,ADD SIDE Mayo,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,The Burger,,Caesar Dressing,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,1 Patty,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Add Beer Cheese,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Add Carmalized Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Add Fet On Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Add Pick Onion To Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Blue Cheese For Salad,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Caitlin,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,G- Blu Cheesd,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Jonatthan,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Medium Well,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,No Balsamic,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,No Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,No Cheese At All,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,No Crispy Onions Sub Caramelized Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,No Egg,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,One Burger Cut In Half,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,One Patty,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,One Patty One Slice Of Cheess,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,One Patty Very Smashed,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Shelagh,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Side Blue Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Side Cherry Peppers,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Side Of Gorg,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Side Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Sub Carmelized Onions,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Sub Ranch On Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Sub Tortilla Chips,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Well Done,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Well Done Crispy Fries,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,The Burger,,Xtra Crispy Ff,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,On A Bun,Veggie Burger,,,Food,[],72.0,15.14,15.00,1090.0,0.0,0.0,0.0,1090.0,76.29,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,ADD ON SIDE BBQ Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,ADD ON SIDE Sub Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,EXTRA Add Side Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,Fries,,[],40.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,Greens,,[],32.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,No Bun,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,Sub GF Bun,,[],3.0,2.00,2.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,ADD SIDE Beer Cheese,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,"!!! GLUTEN ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,ADD Cheddar Cheese,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,ADD ON SIDE Pickles,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,NO Burger Sauce,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,NO Tomato,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,NO Raw Red Onion,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,Fried Egg,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,Caramelized Onions,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,ADD Candied Jalapenos,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Veggie Burger,,Sub Sourdough Bread,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,Add Extra Patty,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,Balsamic On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,Dressing On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,Fries - Well Done,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,Just Patty And Bun,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,No Bals Sub Side Jala Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,Sub Cheddar Cheese For Egg,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,VEGAN,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,Xtra Crispy Ff,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Veggie Burger,,Xtra Crispy Veg Patty,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,,Food,[],163.0,16.07,16.00,2619.0,24.0,0.0,32.0,2595.0,181.67,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD SIDE Jalapeno Ranch,,[],3.0,0.50,0.50,1.5,0.0,0.0,0.0,1.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,NO BBQ Sauce,,[],13.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,EXTRA BBQ Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,BBQ Sauce ON SIDE ONLY,,[],13.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD Coleslaw,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Coleslaw ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Jalapeno Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD Jalapeno Ranch,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD ON SIDE Sub Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Add Side Ranch,,[],3.0,0.50,0.50,1.5,0.0,0.0,0.0,1.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD ON SIDE Alabama White,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Fries,,[],136.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Greens,,[],27.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD SIDE BBQ Sauce,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD American Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,NO Cheddar Cheese,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,NO Pickles,,[],21.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Pickles ON SIDE ONLY,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD Mayo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD ON SIDE Mayo,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,NO Chopped Bacon,,[],3.0,2.00,2.00,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,NO Bacon,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD Lettuce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD Fried Onion Straws,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD SIDE Alabama White,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,ADD SIDE Nashville Hot,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Add Side Mango,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,G- Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Jessie,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,No Seasoning On Fries,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Side Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Sub Caeser Dress,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Sub Grilled Chicken,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Sub Grilled Chix,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,Sub Jalapeno Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Southern Fried Chicken Sandwich,,VERYBDRIED OUT OVERCOOKED,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,,Food,[],162.0,15.02,15.00,2433.0,0.0,0.0,0.0,2433.0,170.28,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD SIDE Blue Cheese,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD SIDE Jalapeno Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD BBQ Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD ON SIDE BBQ Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,NO Coleslaw,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Coleslaw ON SIDE ONLY,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,NO Jalapeno Ranch,,[],10.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Jalapeno Ranch ON SIDE ONLY,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD ON SIDE Sub Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Add Side Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Fries,,[],133.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Greens,,[],27.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Coleslaw,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,No Bun,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD SIDE Buffalo,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,NO Pickles,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD ON SIDE Pickles,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD Mayo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD Tomato,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD Lettuce,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD SIDE Hot Honey,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,ADD SIDE Mayo,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Sub Sourdough Bread,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,2 Slices Of Tomato Please,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Cindy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Crispy Fries,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Extra Sos,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Light Jap Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,No Bals Sub Side Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Sub Bbq For Jal Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Sub Grilled Chicken,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Sub Ranch For Jal Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Sub Reg Ranch For Jal Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Drutherbird Fried Chicken Sandwich,,Unsalted Fries,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,On A Bun,Nashville Hot,,,Food,[],145.0,15.03,15.00,2179.0,5.25,0.0,0.0,2173.75,152.13,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,NO Coleslaw,,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,Alabama White,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,Alabama White ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,Fries,,[],113.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,Greens,,[],31.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,Coleslaw,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,No Bun,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,NO No Bun,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,ADD SIDE Buffalo,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,NO Pickles,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,EXTRA Pickles,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,Pickles ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,ADD Lettuce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,ADD SIDE Alabama White,,[],3.0,0.50,0.50,1.5,0.0,0.0,0.0,1.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,ADD SIDE Mayo,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,Nashville Hot ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Nashville Hot,,ADD SIDE Nashville Hot,,[],3.0,0.50,0.50,1.5,0.0,0.0,0.0,1.5,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,Bleu 4 Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,Brian,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,Cut In Half:),,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,Dry Greens Side Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,Kendall,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,No Balsamc,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,No Fried Chicken,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,Nothing On It Just Nashville Chicken And Bread,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,Sde Mango Hab And Asian Bbq,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Nashville Hot,,Sub Grilled Chicken,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,,Food,[],98.0,15.05,15.00,1475.0,3.75,0.0,30.0,1471.25,102.98,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Add Side Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Fries,,[],76.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Greens,,[],22.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,NO Parmesan,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Chopped Bacon,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Candied Jalapenos,,[],2.0,1.00,1.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,NO Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,ADD SIDE Caesar,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,ADD SIDE Burger Sauce,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,NO Caesar Dressing,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Caesar Dressing ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Add Side Grapes,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Add Side Nashville Hot,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Dressing On Side For Sandwich And Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Just Chicken Bacon Bun Side Mayo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Lanotte,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,No Bals Sub Caesar,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,No Caesar,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,No Parm,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Sub Caesardress For Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Sub Lemon Dijon Dress On Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Grilled Chicken Caesar,,Sub Lemon Dijon Dressing For Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,On A Bun,Hamburger,,,Food,[],4.0,14.00,14.00,56.0,0.0,0.0,0.0,56.0,3.92,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Hamburger,,Fries,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Hamburger,,ADD Pickles,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Hamburger,,ADD Lettuce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Hamburger,,ADD Fried Onion Straws,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,On A Bun,Cheeseburger,,,Food,[],33.0,15.44,15.00,509.5,8.25,0.0,0.0,501.25,35.09,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,ADD ON SIDE Add Side Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Fries,,[],29.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Greens,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,No Bun,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Sub GF Bun,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,American Cheese,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,EXTRA American Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Cheddar Cheese,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,ADD Cheddar Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,NO Cheddar Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Pickles,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Burger Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Ketchup,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,ADD Ketchup,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Mayo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,House Mustard,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Tomato,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,ADD Raw Red Onion,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Chopped Bacon,,[],2.0,2.00,2.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,ADD Chopped Bacon,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,ADD Bacon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Lettuce,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,ADD Fried Egg,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,L-T-O,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Caramelized Onions,,[],3.0,1.00,1.00,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,ADD Caramelized Onions,,[],2.0,1.00,1.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,On A Bun,Cheeseburger,,Muenster Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Cheeseburger,,Add Gorgonzla,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Cheeseburger,,Sub Dry Arugula For Greens Side Nashville For Jenna Thank You!! 💛💖,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Cheeseburger,,Sub Fried Onionw,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,On A Bun,Cheeseburger,,T6,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",All Day Food Menu,Grilled Cheese,,,,,,294.0,15.51,,4560.0,11.50,0.0,0.0,4548.50,317.33,0.0,0.0
+menuItem,All Day Food Menu,Grilled Cheese,Caprese,,,Food,[],101.0,14.03,14.00,1417.5,3.5,0.0,0.0,1414.0,99.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,Add Side Ranch,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,Fries,,[],69.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,Greens,,[],31.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,Coleslaw,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,Sub GF Bun,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,ADD SIDE Buffalo,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,"!!! GLUTEN ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,RUSH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,NO Tomato,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,NO Arugula,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,NO Mozzarella,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Caprese,,EXTRA Balsamic Glaze,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,Add Chicken,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,"Add Feta, Tomatoe, Extra Balsamic",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,Add Mango,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,Dry Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,Greens In Seperate Bowl,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,Host,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,Hot Fries,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,No Bals Sub Caesar,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Caprese,,No Bals Sub Lemon Dij,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Grilled Cheese,French Onion,,,Food,[],77.0,15.10,15.00,1162.5,3.75,0.0,0.0,1158.75,80.05,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,French Onion,,Fries,,[],51.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,French Onion,,Greens,,[],26.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,French Onion,,ADD ON SIDE Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,French Onion,,ADD SIDE Alabama White,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,French Onion,,ADD SIDE Mayo,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,French Onion,,ADD Bacon,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,French Onion,,Add Fried Onion Onsam,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,French Onion,,Add Patty,,[],1.0,4.00,4.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,French Onion,,No Bals Sub Side Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,French Onion,,Sub Lemon Vin,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,,Food,[],116.0,17.07,17.00,1980.0,4.25,0.0,0.0,1975.75,138.28,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,No Chicken,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Add Side Ranch,,[],4.0,0.50,0.50,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,NO BBQ,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,BBQ ON SIDE ONLY,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Fries,,[],93.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Greens,,[],23.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Sub GF Bread,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,"!!! GLUTEN ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,NO Ranch,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Ranch ON SIDE ONLY,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Add Candied Jalapenos,,[],5.0,0.80,0.80,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Add Side Crispy Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Fries Well Done,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Larisa :),,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Niick,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Side Jalapeno Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Sub American Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Grilled Cheese,Loaded Grilled Cheese,,Sub Hot For Bbq,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",All Day Food Menu,House Macaroni & Cheese,,,,,,375.0,17.39,,6521.5,0.0,0.0,0.0,6521.5,456.53,0.0,0.0
+menuItem,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,,Food,[],121.0,16.07,16.00,1945.0,0.0,0.0,0.0,1945.0,136.17,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,SPOON,,[],20.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,ADD Chopped Bacon,,[],2.0,2.00,2.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,Add Side Ranch,,[],3.0,0.50,0.50,1.5,0.0,0.0,0.0,1.5,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,ADD SIDE Buffalo,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,ADD SIDE BBQ Sauce,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,ADD Chicken,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,TO GO,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,NO Panko Topping,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,Bacon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,ADD ON SIDE BBQ Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,Light Panko,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,Only One Spoon,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,Spoon,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Druthers Mac,,To Go,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,,Food,[],117.0,18.00,18.00,2106.0,0.0,0.0,0.0,2106.0,147.42,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,SPOON,,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,RUSH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,NO Bacon,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,NO Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,NO BBQ Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,Light Bbq,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,T6,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Loaded Mac,,Togo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,,Food,[],84.0,18.05,18.00,1516.5,0.0,0.0,0.0,1516.5,106.16,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,SPOON,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,ADD SIDE BBQ Sauce,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,"!!! NUT ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,NO Panko Topping,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,ADD ON SIDE BBQ Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,NO Coleslaw,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,Coleslaw ON SIDE ONLY,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,Add Corn Dip,,[],1.0,4.00,4.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,Extra Bbq,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,BBQ Mac,,Spoon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,House Macaroni & Cheese,Street Corn Mac,,,Food,[],53.0,18.00,18.00,954.0,0.0,0.0,0.0,954.0,66.78,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Street Corn Mac,,SPOON,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,House Macaroni & Cheese,Street Corn Mac,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Street Corn Mac,,Josh,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,House Macaroni & Cheese,Street Corn Mac,,Spoon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",All Day Food Menu,Top Shelf,,,,,,124.0,27.82,,3450.0,0.0,0.0,30.0,3450.0,237.86,0.0,0.0
+menuItem,All Day Food Menu,Top Shelf,Steak Frites,,,Food,[],46.0,30.00,30.00,1380.0,0.0,0.0,30.0,1380.0,96.6,0.0,0.0
+modifier,All Day Food Menu,Top Shelf,Steak Frites,,NO House chimichurri,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Top Shelf,Steak Frites,,House chimichurri ON SIDE ONLY,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Top Shelf,Steak Frites,,NO Hand-cut fries,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,MED RARE,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,MED WELL PLEASE,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,MR,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Med,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Med Rare,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Med Rare.. More On The Rare Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Med Well,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Medium,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Medium Rare,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Mid Rare,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Mr,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,No Arugala,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Rare,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Sub Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Steak Frites,,Well,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Top Shelf,Fish and Chips,,,Food,[],57.0,26.00,26.00,1482.0,0.0,0.0,0.0,1482.0,100.1,0.0,0.0
+modifier,All Day Food Menu,Top Shelf,Fish and Chips,,NO Tartar Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Top Shelf,Fish and Chips,,EXTRA Tartar Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Top Shelf,Fish and Chips,,NO Cocktail Sauce,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Fish and Chips,,No Fries Sub Greens Dos,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Top Shelf,Fish and Chips,,Tax,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Top Shelf,Salmon,,,Food,[],21.0,28.00,28.00,588.0,0.0,0.0,0.0,588.0,41.16,0.0,0.0
+"",All Day Food Menu,Dessert,,,,,,57.0,13.21,,753.0,0.0,0.0,0.0,753.0,52.71,0.0,0.0
+menuItem,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,,Food,[],45.0,14.36,14.00,646.0,0.0,0.0,0.0,646.0,45.22,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,TO GO,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,NO No Whipped Cream,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,Strawberry Sauce ON SIDE ONLY,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,Peanut butter Sauce,,[],2.0,2.00,2.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,Reese's PB Cup Pieces,,[],4.0,2.00,2.00,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,2,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,3,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,4,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,5,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,Scoop Ice Cream ON SIDE ONLY,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,2spoons,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,3,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,3spoons,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,4spoons,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,6spoons,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,BOTH BIRTHDAY CANDLES,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,Bday,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,"Candle, Ill Run",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,Dairy Allergy!!!!!,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,JACKIE WILL BRING!!,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Warm Chocolate Chip Cookie Skillet,,Z2spoons,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Dessert,Flourless Chocolate Cake,,,Food,[],9.0,11.22,11.00,101.0,0.0,0.0,0.0,101.0,7.07,0.0,0.0
+modifier,All Day Food Menu,Dessert,Flourless Chocolate Cake,,2,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Flourless Chocolate Cake,,6,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Dessert,Flourless Chocolate Cake,,Scoop Ice Cream,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Flourless Chocolate Cake,,Candle,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Dessert,Flourless Chocolate Cake,,I Will Bring🙅,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Dessert,Scoop Ice Cream,,,Food,[],3.0,2.00,2.00,6.0,0.0,0.0,0.0,6.0,0.42,0.0,0.0
+"",All Day Food Menu,Kids Menu,,,,,,113.0,12.04,,1361.0,12.75,0.0,0.0,1348.25,94.38,0.0,0.0
+menuItem,All Day Food Menu,Kids Menu,Kids Mac & Cheese,,,Food,[],29.0,12.00,12.00,348.0,0.0,0.0,0.0,348.0,24.36,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Mac & Cheese,,SPOON,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Mac & Cheese,,Fries,,[],13.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Mac & Cheese,,Greens,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Mac & Cheese,,Apples/Grapes,,[],13.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Mac & Cheese,,Add Panko Topping,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Mac & Cheese,,No Bals Sub Jala Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Kids Menu,Kids Cheeseburger,,,Food,[],16.0,12.00,12.00,192.0,0.0,0.0,0.0,192.0,13.44,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Cheeseburger,,Fries,,[],11.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Cheeseburger,,Apples/Grapes,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Cheeseburger,,American Cheese,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Cheeseburger,,ADD Pickles,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Kids Menu,Kids Hamburger,,,Food,[],5.0,12.40,12.00,62.0,0.0,0.0,0.0,62.0,4.34,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Hamburger,,Fries,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Hamburger,,"!!! GLUTEN ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Hamburger,,"!!! DAIRY ALLERGY !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Hamburger,,Apples/Grapes,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Hamburger,,Sub GF Bun,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Hamburger,,No Bun,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,,Food,[],34.0,12.00,12.00,408.0,3.0,0.0,0.0,405.0,28.35,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,Fries,,[],24.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,Greens,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,"!!! NUT ALLERGY !!!",,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,RUSH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,Apples/Grapes,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,Allergy Alert- Raw Dairy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,Sub Chopped Up Ice Burg With Roasted Tomatos Cucmbers And Balsamkc,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,Toss In Bbq,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Chicken Tenders,,Toss In Nashville Sub Dry Arugula For Greens Side Blue Chesse For Jenna Thank You!! 💛💖,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,,Food,[],14.0,12.21,12.00,171.0,6.75,0.0,0.0,164.25,11.5,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Fries,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Apples/Grapes,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Chopped Bacon,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Caramelized Onions,,[],1.0,1.00,1.00,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Muenster Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Add Bbq,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Side Jap Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Grilled Cheese,,Sub Gluten Free Bread Sub Cheese For Jenna,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Kids Menu,Kids Pasta with Butter,,,Food,[],12.0,12.00,12.00,144.0,3.0,0.0,0.0,141.0,9.87,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Pasta with Butter,,Fries,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Pasta with Butter,,Apples/Grapes,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Pasta with Butter,,Side Parm,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Pasta with Butter,,Side Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Kids Menu,Kids Pasta with Butter,,Strawberries Only,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Kids Menu,Kids Pasta with Red Sauce,,,Food,[],3.0,12.00,12.00,36.0,0.0,0.0,0.0,36.0,2.52,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Pasta with Red Sauce,,Fries,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Kids Menu,Kids Pasta with Red Sauce,,Apples/Grapes,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",All Day Food Menu,Sides,,,,,,158.0,3.55,,560.5,18.75,0.0,11.0,541.75,37.51,0.0,0.0
+menuItem,All Day Food Menu,Sides,Side of Fries,,,Food,[],108.0,3.02,3.00,326.0,0.75,0.0,0.0,325.25,22.33,0.0,0.0
+modifier,All Day Food Menu,Sides,Side of Fries,,"!!! DONT MAKE !!!",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sides,Side of Fries,,ADD SIDE Jalapeno Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,Sides,Side of Fries,,Add Side Ranch,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,All Day Food Menu,Sides,Side of Fries,,ADD SIDE Buffalo,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,All Day Food Menu,Sides,Side of Fries,,RUSH,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,Crispy,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,Ethan,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,Extra Crispy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,Larisa,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,STEAK FRIES PLEASE,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,Side Bama,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,Side Tortilla Chips To Go,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,Slacie,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,Well Done Fries Ls,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fries,,With Side Beer Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sides,Side of Greens,,,Food,[],23.0,3.04,3.00,70.0,2.5,0.0,3.0,67.5,4.73,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Apples,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Cucumbers,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Cukes,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Dried Cranberries,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Feta,,[],3.0,0.33,0.33,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Frier Onion,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Gorgonzola,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Tomato,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Add Walnuts,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Blue Cheese Instead Of Balsamic,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Kendall,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,No Balsamic,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,No Balsamic. Add Lmon Wedges,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Greens,,Side Ceaser,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sides,Side of Pretzels,,,Food,[],2.0,6.25,6.00,12.5,1.5,0.0,0.0,11.0,0.78,0.0,0.0
+modifier,All Day Food Menu,Sides,Side of Pretzels,,ADD SIDE Beer Cheese,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Pretzels,,Little Thing Of Beer Cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sides,Side of Coleslaw,,,Food,[],1.0,3.00,3.00,3.0,0.0,0.0,0.0,3.0,0.21,0.0,0.0
+menuItem,All Day Food Menu,Sides,Side of Fruit,,,Food,[],4.0,3.00,3.00,12.0,0.0,0.0,0.0,12.0,0.84,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Fruit,,Noxgrapes Sub Cuccumber,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sides,Side of Beer Cheese,,,Food,[],0.0,0.00,0.00,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Beer Cheese,,Crock Of Street Corn,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Side of Beer Cheese,,Heat Up,,[],0.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sides,Side of Sourdough Bread,,,Food,[],2.0,3.00,3.00,6.0,0.0,0.0,0.0,6.0,0.42,0.0,0.0
+menuItem,All Day Food Menu,Sides,Side of Baguette,,,Food,[],4.0,3.00,3.00,12.0,0.0,0.0,0.0,12.0,0.84,0.0,0.0
+menuItem,All Day Food Menu,Sides,Add Chicken (Side),,,Food,[],8.0,7.00,7.00,56.0,3.5,0.0,0.0,52.5,3.68,0.0,0.0
+modifier,All Day Food Menu,Sides,Add Chicken (Side),,RUSH,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Add Side Bleu,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Add Side Buffalo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Blackended,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Blackened,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Blackened Please Side Blue Side Buff,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Side Bc,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Side Bleu,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Side Buff,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Side Buffalo,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Chicken (Side),,Side Burger Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sides,Add Shrimp (Side),,,Food,[],2.0,9.00,9.00,18.0,2.25,0.0,0.0,15.75,1.1,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Shrimp (Side),,On Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Shrimp (Side),,Side Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sides,Add Salmon (Side),,,Food,[],3.0,11.00,11.00,33.0,8.25,0.0,0.0,24.75,1.74,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Salmon (Side),,Add Side Lemon Butter,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Salmon (Side),,Salmon Entree Please,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Salmon (Side),,Well Done,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Sides,Add Salmon (Side),,Well Done Please,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Sides,Add Steak (Side),,,Food,[],1.0,12.00,12.00,12.0,0.0,0.0,0.0,12.0,0.84,0.0,0.0
+"",All Day Food Menu,Side Sauces,,,,,,178.0,0.44,,78.0,0.0,0.0,0.0,78.0,6.18,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Alabama,,,Food,[],7.0,0.50,0.50,3.5,0.0,0.0,0.0,3.5,0.28,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Asian BBQ,,,Food,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.04,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Balsamic Vinaigrette,,,Food,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE BBQ,,,Food,[],9.0,0.50,0.50,4.5,0.0,0.0,0.0,4.5,0.36,0.0,0.0
+specialRequest,All Day Food Menu,Side Sauces,SIDE BBQ,,Dont Make,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Beer Cheese,,,Food,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.08,0.0,0.0
+specialRequest,All Day Food Menu,Side Sauces,SIDE Beer Cheese,,To Go,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Blue Cheese,,,Food,[],14.0,0.50,0.50,7.0,0.0,0.0,0.0,7.0,0.56,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Buffalo,,,Food,[],16.0,0.50,0.50,8.0,0.0,0.0,0.0,8.0,0.64,0.0,0.0
+specialRequest,All Day Food Menu,Side Sauces,SIDE Buffalo,,No Make,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Burger Sauce,,,Food,[],3.0,0.50,0.50,1.5,0.0,0.0,0.0,1.5,0.12,0.0,0.0
+specialRequest,All Day Food Menu,Side Sauces,SIDE Burger Sauce,,And Side Pickles,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Caesar,,,Food,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Cocktail Sauce,,,Food,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.04,0.0,0.0
+specialRequest,All Day Food Menu,Side Sauces,SIDE Cocktail Sauce,,Sub Tartar,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Mustard,,,Food,[],10.0,0.50,0.50,5.0,0.0,0.0,0.0,5.0,0.4,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Jalapeno Ranch,,,Food,[],10.0,0.50,0.50,5.0,0.0,0.0,0.0,5.0,0.4,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Lemon Dijon Vinaigrette,,,Food,[],9.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Mango Haberno,,,Food,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.08,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Ranch,,,Food,[],46.0,0.50,0.50,23.0,0.0,0.0,0.0,23.0,1.82,0.0,0.0
+specialRequest,All Day Food Menu,Side Sauces,SIDE Ranch,,NO MAKE,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,All Day Food Menu,Side Sauces,SIDE Ranch,,To Go,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Tartar Sauce,,,Food,[],4.0,0.50,0.50,2.0,0.0,0.0,0.0,2.0,0.16,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Malt Vinegar aioli,,,Food,[],4.0,0.50,0.50,2.0,0.0,0.0,0.0,2.0,0.12,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE MAYO,,,Food,[],15.0,0.50,0.50,7.5,0.0,0.0,0.0,7.5,0.6,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Nashville Hot,,,Food,[],6.0,0.50,0.50,3.0,0.0,0.0,0.0,3.0,0.24,0.0,0.0
+menuItem,All Day Food Menu,Side Sauces,SIDE Sour Cream,,,Food,[],6.0,0.50,0.50,3.0,0.0,0.0,0.0,3.0,0.24,0.0,0.0
+specialRequest,All Day Food Menu,Side Sauces,SIDE Sour Cream,,Dont Mzkr,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Soft Drinks/Milkshakes,,,,,,,691.0,3.43,,2373.0,0.4,0.0,30.0,2372.6,162.65,0.0,0.0
+"",Soft Drinks/Milkshakes,N/A Drinks,,,,,,618.0,3.07,,1898.0,0.4,0.0,17.0,1897.6,129.89,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Coke,,,NA Beverage,[],136.0,3.00,3.00,408.0,0.0,0.0,3.0,408.0,28.14,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Diet Coke,,,NA Beverage,[],137.0,3.00,3.00,411.0,0.0,0.0,0.0,411.0,27.72,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,7-Up,,,NA Beverage,[],25.0,3.00,3.00,75.0,0.0,0.0,0.0,75.0,5.04,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Ginger Ale,,,NA Beverage,[],26.0,3.00,3.00,78.0,0.0,0.0,0.0,78.0,5.46,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Club Soda,,,NA Beverage,[],49.0,3.00,3.00,147.0,0.0,0.0,3.0,147.0,9.87,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Lemonade,,,NA Beverage,[],50.0,3.00,3.00,150.0,0.0,0.0,0.0,150.0,10.08,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Unsweetened Iced Tea,,,NA Beverage,[],114.0,3.00,3.00,342.0,0.0,0.0,0.0,342.0,23.52,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Cranberry Juice,,,NA Beverage,[],4.0,3.00,3.00,12.0,0.0,0.0,0.0,12.0,0.84,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Saranac Root Beer,,,NA Beverage,[],38.0,4.00,4.00,152.0,0.0,0.0,8.0,152.0,10.64,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Saranac Ginger Beer,,,NA Beverage,[],2.0,4.00,4.00,8.0,0.0,0.0,0.0,8.0,0.56,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Shirley Temple,,,NA Beverage,[],14.0,4.00,4.00,56.0,0.4,0.0,0.0,55.6,3.89,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Milk,,,NA Beverage,[],5.0,3.00,3.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Chocolate Milk,,,NA Beverage,[],8.0,3.00,3.00,24.0,0.0,0.0,0.0,24.0,1.68,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Pineapple Juice,,,NA Beverage,[],0.0,0.00,0.00,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,N/A Drinks,Coffee,,,NA Beverage,[],10.0,2.00,2.00,20.0,0.0,0.0,0.0,20.0,1.4,0.0,0.0
+"",Soft Drinks/Milkshakes,NA Milkshakes,,,,,,73.0,6.51,,475.0,0.0,0.0,13.0,475.0,32.76,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,NA Milkshakes,Vanilla Milkshake,,,NA Beverage,[],19.0,6.00,6.00,114.0,0.0,0.0,6.0,114.0,7.98,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,NA Milkshakes,Chocolate Milkshake,,,NA Beverage,[],17.0,6.00,6.00,102.0,0.0,0.0,0.0,102.0,7.14,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,NA Milkshakes,Strawberry Milkshake,,,NA Beverage,[],15.0,7.00,7.00,105.0,0.0,0.0,7.0,105.0,6.86,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,NA Milkshakes,Peanut Butter Milkshake,,,NA Beverage,[],16.0,7.00,7.00,112.0,0.0,0.0,0.0,112.0,7.84,0.0,0.0
+menuItem,Soft Drinks/Milkshakes,NA Milkshakes,Cereal Milk Milkshake,,,NA Beverage,[],6.0,7.00,7.00,42.0,0.0,0.0,0.0,42.0,2.94,0.0,0.0
+"",Beer To-Go,,,,,,,134.0,13.14,,1761.0,8.0,0.0,0.0,1753.0,120.19,0.0,0.0
+"",Beer To-Go,1 Liter Refill,,,,,,1.0,8.00,,8.0,0.0,0.0,0.0,8.0,0.56,0.0,0.0
+menuItem,Beer To-Go,1 Liter Refill,Oktoberfest 1L Refill,,,To-Go Beer,[],1.0,8.00,8.00,8.0,0.0,0.0,0.0,8.0,0.56,0.0,0.0
+"",Beer To-Go,2 Liter Refill,,,,,,1.0,12.00,,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+menuItem,Beer To-Go,2 Liter Refill,Golden Rule 2L- Refill,,,To-Go Beer,[],1.0,12.00,12.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+"",Beer To-Go,4 Packs To Go,,,,,,132.0,13.19,,1741.0,8.0,0.0,0.0,1733.0,119.63,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,,To-Go Beer,[],10.0,18.10,0.00,181.0,0.0,0.0,0.0,181.0,12.67,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Playa Asst,,[],1.0,4.00,4.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Golden Rule Blonde Asst,,[],2.0,4.00,4.00,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Against the Currant Asst,,[],3.0,5.00,5.00,15.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Lakeside Lounging Asst,,[],4.0,5.00,5.00,20.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Uncurious NEIPA Asst,,[],4.0,5.00,5.00,20.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,All-In IPA Asst,,[],3.0,4.00,4.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Peach Apricot Dare Asst,,[],4.0,5.00,5.00,20.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Brevity Wit Asst,,[],7.0,4.00,4.00,28.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Citra Nelson Curious Asst,,[],4.0,5.00,5.00,20.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Oktoberfest Asst,,[],3.0,4.00,4.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Honeybear Asst,,[],2.0,5.00,5.00,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+modifier,Beer To-Go,4 Packs To Go,Assorted  4 Pack,,Oatmeal Stout Asst,,[],3.0,4.00,4.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Playa 4 Pack,,,To-Go Beer,[],4.0,12.00,12.00,48.0,0.0,0.0,0.0,48.0,3.36,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Golden Rule Blonde 4 Pack,,,To-Go Beer,[Alcohol],4.0,12.00,12.00,48.0,2.0,0.0,0.0,46.0,3.22,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Saratoga Vibes 4 Pack,,,To-Go Beer,[],3.0,12.00,12.00,36.0,0.0,0.0,0.0,36.0,2.52,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Lakeside Lounging 4 Pack,,,To-Go Beer,[Alcohol],6.0,14.00,14.00,84.0,0.0,0.0,0.0,84.0,5.88,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Uncurious NEIPA 4 Pack,,,To-Go Beer,[Alcohol],20.0,14.00,14.00,280.0,0.0,0.0,0.0,280.0,18.62,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Citra Nelson Curious 4 Pack,,,To-Go Beer,[],7.0,14.00,14.00,98.0,0.0,0.0,0.0,98.0,6.86,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Honeybear 4 Pack,,,To-Go Beer,[],8.0,14.00,14.00,112.0,0.0,0.0,0.0,112.0,7.84,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,All-In 4 Pack,,,To-Go Beer,[Alcohol],11.0,12.00,12.00,132.0,6.0,0.0,0.0,126.0,8.12,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Peach Apricot Dare 4 Pack,,,To-Go Beer,[],7.0,14.00,14.00,98.0,0.0,0.0,0.0,98.0,6.86,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Brevity Wit 4 Pack,,,To-Go Beer,[],3.0,12.00,12.00,36.0,0.0,0.0,0.0,36.0,2.52,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Scottish 80 Shilling 4 Pack,,,To-Go Beer,[Alcohol],9.0,12.00,12.00,108.0,0.0,0.0,0.0,108.0,7.56,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Oktoberfest 4 Pack,,,To-Go Beer,[],31.0,12.00,12.00,372.0,0.0,0.0,0.0,372.0,26.04,0.0,0.0
+menuItem,Beer To-Go,4 Packs To Go,Oatmeal Stout 4 Pack,,,To-Go Beer,[],9.0,12.00,12.00,108.0,0.0,0.0,0.0,108.0,7.56,0.0,0.0
+"",Retail,,,,,,,75.0,15.88,,1191.0,50.0,0.0,50.0,1141.0,75.18,0.0,0.0
+"",Retail,Baseball Shirt,,,,,,2.0,30.00,,60.0,0.0,0.0,0.0,60.0,4.2,0.0,0.0
+menuItem,Retail,Baseball Shirt,Large,,,Retail,[],1.0,30.00,30.00,30.0,0.0,0.0,0.0,30.0,2.1,0.0,0.0
+menuItem,Retail,Baseball Shirt,XL,,,Retail,[],1.0,30.00,30.00,30.0,0.0,0.0,0.0,30.0,2.1,0.0,0.0
+"",Retail,Kids Apparel,,,,,,3.0,15.00,,45.0,0.0,0.0,0.0,45.0,3.15,0.0,0.0
+menuItem,Retail,Kids Apparel,Youth Shirt Medium,,,Retail,[],2.0,15.00,15.00,30.0,0.0,0.0,0.0,30.0,2.1,0.0,0.0
+menuItem,Retail,Kids Apparel,Youth Shirt Large,,,Retail,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+"",Retail,Hats,,,,,,8.0,25.00,,200.0,50.0,0.0,0.0,150.0,7.0,0.0,0.0
+menuItem,Retail,Hats,Trucker Hat- Light Grey,,,Retail,[],6.0,25.00,25.00,150.0,50.0,0.0,0.0,100.0,3.5,0.0,0.0
+menuItem,Retail,Hats,Dad Hat - Grey,,,Retail,[],2.0,25.00,25.00,50.0,0.0,0.0,0.0,50.0,3.5,0.0,0.0
+"",Retail,Glassware,,,,,,15.0,8.00,,120.0,0.0,0.0,0.0,120.0,7.28,0.0,0.0
+menuItem,Retail,Glassware,Stein Glass,,,Retail,[],3.0,8.00,8.00,24.0,0.0,0.0,0.0,24.0,1.68,0.0,0.0
+menuItem,Retail,Glassware,Large Tulip,,,Retail,[],6.0,8.00,8.00,48.0,0.0,0.0,0.0,48.0,2.24,0.0,0.0
+menuItem,Retail,Glassware,Small Tulip,,,Retail,[],2.0,8.00,8.00,16.0,0.0,0.0,0.0,16.0,1.12,0.0,0.0
+menuItem,Retail,Glassware,Stem Teku Beer Glass,,,Retail,[],4.0,8.00,8.00,32.0,0.0,0.0,0.0,32.0,2.24,0.0,0.0
+"",Retail,Stickers,,,,,,16.0,1.00,,16.0,0.0,0.0,0.0,16.0,1.05,0.0,0.0
+menuItem,Retail,Stickers,White Sticker,,,Retail,[],16.0,1.00,1.00,16.0,0.0,0.0,0.0,16.0,1.05,0.0,0.0
+"",Retail,Charcoal TS,,,,,,5.0,25.00,,125.0,0.0,0.0,50.0,125.0,8.75,0.0,0.0
+menuItem,Retail,Charcoal TS,Large,,,Retail,[],3.0,25.00,25.00,75.0,0.0,0.0,25.0,75.0,5.25,0.0,0.0
+menuItem,Retail,Charcoal TS,XL,,,Retail,[],2.0,25.00,25.00,50.0,0.0,0.0,0.0,50.0,3.5,0.0,0.0
+menuItem,Retail,Charcoal TS,2 XL,,,Retail,[],0.0,0.00,0.00,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0
+"",Retail,Fall Sale Longsleeves,,,,,,9.0,20.00,,180.0,0.0,0.0,0.0,180.0,12.6,0.0,0.0
+menuItem,Retail,Fall Sale Longsleeves,Small,,,Retail,[],2.0,20.00,20.00,40.0,0.0,0.0,0.0,40.0,2.8,0.0,0.0
+menuItem,Retail,Fall Sale Longsleeves,Medium,,,Retail,[],1.0,20.00,20.00,20.0,0.0,0.0,0.0,20.0,1.4,0.0,0.0
+menuItem,Retail,Fall Sale Longsleeves,Large,,,Retail,[],1.0,20.00,20.00,20.0,0.0,0.0,0.0,20.0,1.4,0.0,0.0
+menuItem,Retail,Fall Sale Longsleeves,XL,,,Retail,[],4.0,20.00,20.00,80.0,0.0,0.0,0.0,80.0,5.6,0.0,0.0
+menuItem,Retail,Fall Sale Longsleeves,Double XL,,,Retail,[],1.0,20.00,20.00,20.0,0.0,0.0,0.0,20.0,1.4,0.0,0.0
+"",Retail,Light Grey TS,,,,,,4.0,25.00,,100.0,0.0,0.0,0.0,100.0,7.00,0.0,0.0
+menuItem,Retail,Light Grey TS,Medium,,,Retail,[],1.0,25.00,25.00,25.0,0.0,0.0,0.0,25.0,1.75,0.0,0.0
+menuItem,Retail,Light Grey TS,Large,,,Retail,[],1.0,25.00,25.00,25.0,0.0,0.0,0.0,25.0,1.75,0.0,0.0
+menuItem,Retail,Light Grey TS,2 XL,,,Retail,[],2.0,25.00,25.00,50.0,0.0,0.0,0.0,50.0,3.5,0.0,0.0
+"",Retail,Pull Over,,,,,,4.0,45.00,,180.0,0.0,0.0,0.0,180.0,12.60,0.0,0.0
+menuItem,Retail,Pull Over,Charcoal Small,,,Retail,[],1.0,45.00,45.00,45.0,0.0,0.0,0.0,45.0,3.15,0.0,0.0
+menuItem,Retail,Pull Over,Charcoal Large,,,Retail,[],1.0,45.00,45.00,45.0,0.0,0.0,0.0,45.0,3.15,0.0,0.0
+menuItem,Retail,Pull Over,Green 2 XL,,,Retail,[],2.0,45.00,45.00,90.0,0.0,0.0,0.0,90.0,6.3,0.0,0.0
+"",Retail,Summer Sale TS,,,,,,7.0,15.00,,105.0,0.0,0.0,0.0,105.0,7.35,0.0,0.0
+menuItem,Retail,Summer Sale TS,2 XL,,,Retail,[],6.0,15.00,15.00,90.0,0.0,0.0,0.0,90.0,6.3,0.0,0.0
+menuItem,Retail,Summer Sale TS,3 XL,,,Retail,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+"",Retail,Sweatshirt Sale,,,,,,2.0,30.00,,60.0,0.0,0.0,0.0,60.0,4.2,0.0,0.0
+menuItem,Retail,Sweatshirt Sale,Medium,,,Retail,[],2.0,30.00,30.00,60.0,0.0,0.0,0.0,60.0,4.2,0.0,0.0
+"",Employee Food,,,,,,,18.0,4.63,,83.34,0.0,0.0,0.0,83.34,5.9,0.0,0.0
+"",Employee Food,BoH Employee Food,,,,,,18.0,4.63,,83.34,0.0,0.0,0.0,83.34,5.9,0.0,0.0
+menuItem,Employee Food,BoH Employee Food,BoH Employee Meal,,,Food,[],18.0,4.63,4.63,83.34,0.0,0.0,0.0,83.34,5.9,0.0,0.0
+"",Catering,,,,,,,215.0,7.60,,1635.0,0.0,0.0,675.0,1635.0,0.0,0.0,0.0
+"",Catering,In House Catering,,,,,,215.0,7.60,,1635.0,0.0,0.0,675.0,1635.0,0.0,0.0,0.0
+menuItem,Catering,In House Catering,Boneless Wings (One Flavor) - Catered,,,Food,[],65.0,9.00,9.00,585.0,0.0,0.0,675.0,585.0,0.0,0.0,0.0
+menuItem,Catering,In House Catering,The Burger Sliders - Catered,,,Food,[],50.0,7.00,7.00,350.0,0.0,0.0,0.0,350.0,0.0,0.0,0.0
+menuItem,Catering,In House Catering,Pulled Pork Sliders - Catered,,,Food,[],50.0,7.00,7.00,350.0,0.0,0.0,0.0,350.0,0.0,0.0,0.0
+menuItem,Catering,In House Catering,Druthers Mac - Catered,,,Food,[],50.0,7.00,7.00,350.0,0.0,0.0,0.0,350.0,0.0,0.0,0.0
+"",Online Ordering,,,,,,,332.0,17.84,,5924.0,0.0,0.0,0.0,5924.0,414.77,0.0,0.0
+"",Online Ordering,Sharing*,,,,,,52.0,17.03,,885.5,0.0,0.0,0.0,885.5,61.97,0.0,0.0
+menuItem,Online Ordering,Sharing*,Street Corn Dip*,,,Food,[],11.0,15.05,15.00,165.5,0.0,0.0,0.0,165.5,11.58,0.0,0.0
+modifier,Online Ordering,Sharing*,Street Corn Dip*,,ADD SIDE Cocktail Sauce,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+menuItem,Online Ordering,Sharing*,Beer Cheese Dip*,,,Food,[],40.0,17.63,17.00,705.0,0.0,0.0,0.0,705.0,49.34,0.0,0.0
+modifier,Online Ordering,Sharing*,Beer Cheese Dip*,,Add Side Fries,,[],6.0,4.00,4.00,24.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0
+modifier,Online Ordering,Sharing*,Beer Cheese Dip*,,No Scallions,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Sharing*,Beer Cheese Dip*,,ADD SIDE Beer Cheese,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,Sharing*,Beer Cheese Dip*,,ADD SIDE Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+menuItem,Online Ordering,Sharing*,Meatballs*,,,Food,[],1.0,15.00,15.00,15.0,0.0,0.0,0.0,15.0,1.05,0.0,0.0
+"",Online Ordering,Wings*,,,,,,35.0,18.77,,657.0,0.0,0.0,0.0,657.0,46.01,0.0,0.0
+menuItem,Online Ordering,Wings*,Boneless*,,,Food,[],24.0,19.10,17.00,458.5,0.0,0.0,0.0,458.5,32.11,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Extra Crispy,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Add Side Blue Cheese,,[],4.0,0.50,0.50,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,ADD SIDE Ranch,,[],4.0,0.50,0.50,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Add Side Fries,,[],9.0,4.00,4.00,36.0,0.0,0.0,0.0,36.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Extra Crispy,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Sub Ranch for Blue Cheese,,[],15.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Buffalo,,[],16.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,BBQ,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Mango Habanero,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Alabama White,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Ranch,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Add Side Alabama White,,[],3.0,0.50,0.50,1.5,0.0,0.0,0.0,1.5,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Add Side Alabama White,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Add Side Jalapeno Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Extra Crispy,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Boneless*,,Add Side Greens,,[],2.0,4.00,4.00,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+menuItem,Online Ordering,Wings*,Traditional*,,,Food,[],11.0,18.05,18.00,198.5,0.0,0.0,0.0,198.5,13.9,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,Extra Crispy,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,ADD SIDE Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,Extra Crispy,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,Sub Ranch for Blue Cheese,,[],11.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,Buffalo,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,Dry,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,Mango Habanero,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,Ranch,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Wings*,Traditional*,,Extra Crispy,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Online Ordering,Tacos*,,,,,,9.0,17.00,,153.0,0.0,0.0,0.0,153.0,10.71,0.0,0.0
+menuItem,Online Ordering,Tacos*,Shrimp Tacos*,,,Food,[],9.0,17.00,17.00,153.0,0.0,0.0,0.0,153.0,10.71,0.0,0.0
+modifier,Online Ordering,Tacos*,Shrimp Tacos*,,No Jalapeno Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Online Ordering,Flatbreads*,,,,,,20.0,15.80,,316.0,0.0,0.0,0.0,316.0,22.12,0.0,0.0
+menuItem,Online Ordering,Flatbreads*,Cheese Flatbread*,,,Food,[],2.0,14.00,14.00,28.0,0.0,0.0,0.0,28.0,1.96,0.0,0.0
+menuItem,Online Ordering,Flatbreads*,Pepperoni Flatbread*,,,Food,[],1.0,16.00,16.00,16.0,0.0,0.0,0.0,16.0,1.12,0.0,0.0
+menuItem,Online Ordering,Flatbreads*,Monkey Bread Mix Flatbread*,,,Food,[],7.0,16.00,16.00,112.0,0.0,0.0,0.0,112.0,7.84,0.0,0.0
+menuItem,Online Ordering,Flatbreads*,Angry Bee Flatbread*,,,Food,[],10.0,16.00,16.00,160.0,0.0,0.0,0.0,160.0,11.2,0.0,0.0
+modifier,Online Ordering,Flatbreads*,Angry Bee Flatbread*,,Candied Jalapenos,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Online Ordering,Greens*,,,,,,36.0,19.75,,711.0,0.0,0.0,0.0,711.0,49.77,0.0,0.0
+menuItem,Online Ordering,Greens*,Apple Gorgonzola Salad*,,,Food,[],14.0,18.93,15.00,265.0,0.0,0.0,0.0,265.0,18.55,0.0,0.0
+modifier,Online Ordering,Greens*,Apple Gorgonzola Salad*,,Add Side Fries,,[],4.0,4.00,4.00,16.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Apple Gorgonzola Salad*,,Add Chicken,,[],3.0,7.00,7.00,21.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Apple Gorgonzola Salad*,,Add Shrimp,,[],2.0,9.00,9.00,18.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Apple Gorgonzola Salad*,,Sub Caesar Dressing,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Apple Gorgonzola Salad*,,Sub Romaine,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Apple Gorgonzola Salad*,,No Gorgonzola,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Apple Gorgonzola Salad*,,No Spiced Nuts,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Online Ordering,Greens*,Apple Gorgonzola Salad*,,Dressing on the side please and thank you~,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,Greens*,Baby Kale Caesar Salad*,,,Food,[],13.0,21.31,15.00,277.0,0.0,0.0,0.0,277.0,19.39,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,Add Side Fries,,[],1.0,4.00,4.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,Add Chicken,,[],5.0,7.00,7.00,35.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,Add Shrimp,,[],1.0,9.00,9.00,9.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,Add Salmon,,[],2.0,11.00,11.00,22.0,0.0,0.0,0.0,22.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,No Dressing,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,Sub Hefeweizen Vinaigrette,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,No Croutons,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,No Grapes,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Baby Kale Caesar Salad*,,Add  Steak,,[],1.0,12.00,12.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+menuItem,Online Ordering,Greens*,Mediterranean Grains Salad*,,,Food,[],7.0,19.57,15.00,137.0,0.0,0.0,0.0,137.0,9.59,0.0,0.0
+modifier,Online Ordering,Greens*,Mediterranean Grains Salad*,,Add Side Fries,,[],3.0,4.00,4.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Mediterranean Grains Salad*,,Add Shrimp,,[],1.0,9.00,9.00,9.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Mediterranean Grains Salad*,,Add Salmon,,[],1.0,11.00,11.00,11.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Mediterranean Grains Salad*,,No Feta,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Mediterranean Grains Salad*,,No Kalamata Olives,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Greens*,Mediterranean Grains Salad*,,No Red Onions,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,Greens*,BLT Wedge Salad*,,,Food,[],2.0,16.00,16.00,32.0,0.0,0.0,0.0,32.0,2.24,0.0,0.0
+specialRequest,Online Ordering,Greens*,BLT Wedge Salad*,,extra blue cheese,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Online Ordering,On A Bun*,,,,,,93.0,17.22,,1601.0,0.0,0.0,0.0,1601.0,112.15,0.0,0.0
+menuItem,Online Ordering,On A Bun*,The Burger*,,,Food,[],33.0,18.80,17.94,620.5,0.0,0.0,0.0,620.5,43.47,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,Fries,,[],31.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,Greens,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,Sub GF Bun,,[],1.0,2.00,2.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,No Pickles,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,Add Chopped Bacon,,[],6.0,2.00,2.00,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,Add Caramelized Onions,,[],3.0,1.00,1.00,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,Add Sweeties Candied Jalapeños,,[],2.0,1.00,1.00,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,Make It Ugly!,,[],1.0,4.00,4.00,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,ADD SIDE BBQ,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,ADD SIDE Burger Sauce,,[],4.0,0.50,0.50,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,ADD SIDE Jalapeno Ranch,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,ADD SIDE Lemon Dijon Vinaiegrette,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,ADD SIDE Ranch,,[],2.0,0.50,0.50,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,The Burger*,,ADD SIDE Malt Vinegar aioli,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+specialRequest,Online Ordering,On A Bun*,The Burger*,,"Crispy onions on side
+Burger sauce on side",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Online Ordering,On A Bun*,The Burger*,,Extra Ketchup on the side please,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,On A Bun*,Veggie Burger*,,,Food,[],2.0,16.00,16.00,32.0,0.0,0.0,0.0,32.0,2.24,0.0,0.0
+modifier,Online Ordering,On A Bun*,Veggie Burger*,,Fries,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,,Food,[],12.0,17.17,17.00,206.0,0.0,0.0,0.0,206.0,14.41,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,Fries,,[],10.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,Greens,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,No Bacon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,No BBQ Sauce,,[],4.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,No Cheddar Cheese,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,No Pickles,,[],5.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,ADD SIDE Alabama,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,ADD SIDE BBQ,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,ADD SIDE Beer Cheese,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Southern Fried Chicken Sandwich*,,ADD SIDE Jalapeno Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+menuItem,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,,Food,[],19.0,16.18,16.00,307.5,0.0,0.0,0.0,307.5,21.55,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,Fries,,[],16.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,Greens,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,No Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,No Coleslaw,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,No Jalapeno Ranch,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,No Pickles,,[],6.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,ADD SIDE Beer Cheese,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,ADD SIDE Jalapeno Ranch,,[],5.0,0.50,0.50,2.5,0.0,0.0,0.0,2.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Drutherbird Fried Chicken Sandwich*,,ADD SIDE Blue Cheese,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+menuItem,Online Ordering,On A Bun*,Nashville Hot*,,,Food,[],8.0,16.19,16.00,129.5,0.0,0.0,0.0,129.5,9.08,0.0,0.0
+modifier,Online Ordering,On A Bun*,Nashville Hot*,,Fries,,[],7.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Nashville Hot*,,Greens,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Nashville Hot*,,ADD SIDE Alabama,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Nashville Hot*,,ADD SIDE Hot Honey,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Nashville Hot*,,ADD SIDE Jalapeno Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+menuItem,Online Ordering,On A Bun*,Grilled Chicken Caesar*,,,Food,[],11.0,16.05,16.00,176.5,0.0,0.0,0.0,176.5,12.36,0.0,0.0
+modifier,Online Ordering,On A Bun*,Grilled Chicken Caesar*,,Fries,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Grilled Chicken Caesar*,,Greens,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Grilled Chicken Caesar*,,ADD SIDE Coleslaw,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Grilled Chicken Caesar*,,Sub Fried Chicken,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,On A Bun*,Cheeseburger*,,,Food,[],8.0,16.13,16.00,129.0,0.0,0.0,0.0,129.0,9.04,0.0,0.0
+modifier,Online Ordering,On A Bun*,Cheeseburger*,,Fries,,[],8.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Cheeseburger*,,Add Red Onion,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Cheeseburger*,,Add Ketchup,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Cheeseburger*,,ADD SIDE BBQ,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,On A Bun*,Cheeseburger*,,ADD SIDE Candied Jalapenos,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+specialRequest,Online Ordering,On A Bun*,Cheeseburger*,,"Add Ketchup and mustard please, cooked medium well. Thank you",,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"",Online Ordering,Grilled Cheese*,,,,,,16.0,17.53,,280.5,0.0,0.0,0.0,280.5,19.64,0.0,0.0
+menuItem,Online Ordering,Grilled Cheese*,Caprese*,,,Food,[],2.0,15.00,15.00,30.0,0.0,0.0,0.0,30.0,2.1,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Caprese*,,No Balsamic Glaze,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Caprese*,,Fries,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,Grilled Cheese*,French Onion*,,,Food,[],1.0,16.00,16.00,16.0,0.0,0.0,0.0,16.0,1.12,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,French Onion*,,Fries,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,,Food,[],13.0,18.04,18.00,234.5,0.0,0.0,0.0,234.5,16.42,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,Fries,,[],10.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,Greens,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,No Side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,No Bacon,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,No BBQ Sauce,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,No Chicken,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,No Muenster Cheese,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,No Ranch,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Grilled Cheese*,Loaded Grilled Cheese*,,ADD SIDE Ranch,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+"",Online Ordering,Top Shelf*,,,,,,2.0,27.50,,55.0,0.0,0.0,0.0,55.0,3.85,0.0,0.0
+menuItem,Online Ordering,Top Shelf*,Fish and Chips*,,,Food,[],2.0,27.50,27.00,55.0,0.0,0.0,0.0,55.0,3.85,0.0,0.0
+modifier,Online Ordering,Top Shelf*,Fish and Chips*,,No Cocktail Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Top Shelf*,Fish and Chips*,,No Scallion,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Top Shelf*,Fish and Chips*,,No Tartar Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,Top Shelf*,Fish and Chips*,,ADD SIDE Cocktail Sauce,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+modifier,Online Ordering,Top Shelf*,Fish and Chips*,,ADD SIDE Tartar Sauce,,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+"",Online Ordering,House Macaroni & Cheese*,,,,,,69.0,18.33,,1265.0,0.0,0.0,0.0,1265.0,88.55,0.0,0.0
+menuItem,Online Ordering,House Macaroni & Cheese*,Druthers Mac*,,,Food,[],23.0,17.00,17.00,391.0,0.0,0.0,0.0,391.0,27.37,0.0,0.0
+modifier,Online Ordering,House Macaroni & Cheese*,Druthers Mac*,,No Panko Topping,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,House Macaroni & Cheese*,BBQ Mac*,,,Food,[],18.0,19.00,19.00,342.0,0.0,0.0,0.0,342.0,23.94,0.0,0.0
+modifier,Online Ordering,House Macaroni & Cheese*,BBQ Mac*,,No Coleslaw,,[],3.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,House Macaroni & Cheese*,BBQ Mac*,,No Panko Topping,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Online Ordering,House Macaroni & Cheese*,BBQ Mac*,,Coleslaw on the side please,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Online Ordering,House Macaroni & Cheese*,BBQ Mac*,,Extra bbq sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Online Ordering,House Macaroni & Cheese*,BBQ Mac*,,coleslaw on side,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,House Macaroni & Cheese*,Loaded Mac*,,,Food,[],19.0,19.00,19.00,361.0,0.0,0.0,0.0,361.0,25.27,0.0,0.0
+modifier,Online Ordering,House Macaroni & Cheese*,Loaded Mac*,,No BBQ Sauce,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,House Macaroni & Cheese*,Loaded Mac*,,No Panko Topping,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+modifier,Online Ordering,House Macaroni & Cheese*,Loaded Mac*,,No Ranch,,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+specialRequest,Online Ordering,House Macaroni & Cheese*,Loaded Mac*,,Extra bbq sauce,,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+menuItem,Online Ordering,House Macaroni & Cheese*,Street Corn Mac*,,,Food,[],9.0,19.00,19.00,171.0,0.0,0.0,0.0,171.0,11.97,0.0,0.0
+"",Open items,,,,,,,7.0,1.71,,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+"",Open items,Open Drink,,,,,,3.0,2.83,,8.5,0.0,0.0,0.0,8.5,0.0,0.0,0.0
+openItem,Open items,Open Drink,HAPPY HOUR DARE,,,Beer - Draft,[],1.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+openItem,Open items,Open Drink,Pint glass,,,Beer - Draft,[],1.0,8.00,8.00,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+openItem,Open items,Open Drink,Side Chimmichuri,,,Beer - Draft,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+"",Open items,Open Food,,,,,,4.0,0.88,,3.5,0.0,0.0,0.0,3.5,0.0,0.0,0.0
+openItem,Open items,Open Food,Extra Patty,,,Food,[],1.0,3.00,3.00,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+openItem,Open items,Open Food,SIDE RANCH,,,Food,[],2.0,0.00,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+openItem,Open items,Open Food,Side Pico,,,Food,[],1.0,0.50,0.50,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0

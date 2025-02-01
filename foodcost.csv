@@ -1,0 +1,127 @@
+Product,Item Code,Percent Sold,Inventory
+"6"" tortilla shells",940113,0.61,2.333
+51/49 evoo,350649,0,0.0
+90/10 canola oil,350713,0.0,1.0
+american cheese,33050,0.84,0.317
+a.p. flour,205003,0.0,1.0
+a.p. mayo,310441,0.0,1.0
+apple cider vinegar,550402,0,0.0
+artichoke hearts,530603,0.5,0.5
+arugala,109009,2.88,-3.75
+baby kale,109095,0.03,8.691
+baguettes,965163,0.84,0.156
+balsamic glaze,400682,0,-0.307
+balsamic vinegar,181281,0,0.0
+basil pesto,940201,1.58,-0.583
+"black pepper, ground",481304,0,0.0
+buffalo sauce,160518,0.28,1.445
+burger buns,932774,0.85,3.25
+burger meat,10451,0.64,5.752
+butter,13602,0.03,0.969
+buttermilk,61613,0,0.0
+celery seed,481244,0,0.0
+cherry peppers,390421,0,-0.034
+chickpeas,520660,0.1,0.904
+chocolate chip cookie dough,995470,0.75,0.25
+chopped bacon,400300,1.06,-0.312
+coleslaw mix,109034,0.74,1.044
+cotija cheese,30626,0.71,0.285
+cucumbers,109068,0.22,2.339
+dill pickles,392006,1.15,-0.295
+dried cranberries,563008,0.71,0.287
+eggs,53005,0.34,0.656
+feta,33509,0.04,9.603
+flatbread (12x12),12063,0.56,2.18
+flourless chocolate cake,881512,0,-0.571
+french fries,700706,0.6,16.278
+french's mustard,324809,0,0.0
+fried chicken breast,410575,0.42,10.482
+frozen haddock,960051,0.67,1.667
+frozen wings,410222,0.57,14.08
+garlic powder,481232,0,0.0
+gf bread,960678,0,0.0
+gf buns,932281,0,0.0
+goat cheese,30262,2.0,-1.0
+gorgonzola crumbles,30217,0.05,18.931
+granny smith apples,109002,0,-0.62
+grapes,109082,0.66,0.342
+grated parm,31323,0,-0.01
+gruyere,30233,0,-0.894
+hot honey,160577,0,-0.015
+iceberg,109105,1.75,-1.498
+kalamata olives,363015,1.49,-0.488
+kosher salt,433602,0,0.0
+lemons,109102,0.05,1.893
+limes,109122,0.31,5.556
+mango haberno,160572,0,-0.297
+mixed greens,109121,1.4,-10.083
+muenster,133614,0,-0.392
+nashville hot sauce,161000,0,-1.312
+panko,152016,1.31,-0.312
+paprika,470070,0,0.0
+parsley,102097,0.0,1.0
+pepperoni cups,853344,0.41,1.175
+pretzels,932914,0.86,2.444
+ranch packets,161202,0,0.0
+red onions,109148,0,-0.12
+red tomatoes,109229,0.33,1.346
+romaine,109120,0.44,3.339
+salmon (6oz),682204,0.33,1.346
+scallions,102632,0.0,2.0
+shaved parmesan,30302,0.56,0.881
+shredded cheddar,33703,0,-0.741
+shredded monterey jack,232044,0,-0.741
+shredded mozzarella,100045,1.18,-0.175
+shrimp,109661,0.07,65.088
+sliced cheddar,234444,0.62,1.5
+sliced mozzarella,30639,0,-2.699
+sour cream,189964,0,-0.84
+sourdough,932776,0.57,2.977
+stracciatella,30320,0.1,1.809
+strawberries,109221,0.05,2.851
+tabasco,461202,0,0.0
+tortilla chips,936998,1.64,-4.5
+vanilla ice cream,842429,0.01,0.993
+yellow onions,109147,0.58,0.42
+alabama white,ALABAMA_WHITE_SAUCE,0,-0.497
+al pastor,AL_PASTOR_MARINADE_COMMISSARY_24,0.35,1.953
+balsamic vinaigrette,BALSAMIC_VINAIGRETTE,1.68,-0.681
+"black bean, quinoa burger","BLACK_BEAN,_QUINOA_&_CORN_BURGER_SPRING_23",1.28,-0.28
+blackened seasoning,BLACKENED_SEASONING_-_COMMISSARY,0.99,0.008
+blue cheese,BLUE_CHEESE_DRESSING,0.57,0.869
+bolognese,BOLOGNESE_COMMISSARY_24_,0,-2.125
+boneless,BONELESS_WINGS,1.64,-6.35
+burger sauce,BURGER_SAUCE,5.81,-4.812
+burnt ends,BURNT_ENDS,0.2,0.804
+caesar dressing,CAESAR_DRESSING,0.41,1.181
+candied jalapenos,CANDIED_JALAPENOS,0.02,0.978
+candied walnuts,CANDIED_WALNUTS,1.11,-0.225
+caramelized onions,CARAMELIZED_ONIONS_FALL_23,0.07,1.862
+carolina bbq,CAROLINA_BBQ_SAUCE,1.98,-0.978
+char siu,CHAR_SIU,0,-0.781
+cheese sauce,CHEESE_SAUCE,0.68,14.203
+chimichurri,CHIMICHURRI_COMMISSARY_24,0,-0.219
+cocktail sauce,COCKTAIL_SAUCE_SPRING_23,0,-0.141
+flat iron steak,FLAT_IRON_STEAK_COMMISSARY_24,0.71,0.575
+herb oil,HERB_OIL_SPICE_KIT_COMMISSARY_24,0,-1.312
+house fries,HOUSE_FRIES_COMMISSARY_24,0.7,0.3
+jalapeno ranch,JALAPENO_RANCH,0.74,0.525
+lemon caper compound,LEMON_CAPER_COMPOUND_BUTTER_COMMISSARY_24,0,-0.011
+lemon dijon vinaigrette,LEMON_DIJON_VIN_FALL_23,0,-1.209
+malt vinegar aioli,MALT_VINEGAR_AIOLI_COMMISSARY_24,0,0.0
+marinara,MARINARA_24,0.7,0.902
+meatballs,MEATBALLS_COMMISSARY_24,0,-3.508
+monkey mix,MONKEY_MIX,1.55,-0.55
+pickled red onions,PICKLED_RED_ONIONS_UPDATED,0.7,0.297
+pico de gallo,PICO_DE_GALLO_-_COMMISSARY,2.04,-8.356
+pineapple puree,PINEAPPLE_PUREE,0.0,1.0
+pulled pork,PULLED_PORK,0.78,0.438
+ranch,RANCH_DRESSING,1.22,-0.219
+raw pasta,RAW_PASTA_FALL_23,1.16,-1.306
+roasted chicken,ROASTED_CHICKEN_-_COMMISSARY,1.1,-0.4
+roasted tomatoes,ROASTED_TOMATOES,0.89,0.219
+seasoned beef,SEASONED_BEEF_COMMISSARY_24,0.98,0.125
+shredded chicken,SHREDDED_CHICKEN_-_COMMISSARY_24,1.14,-0.55
+street corn dip,STREET_CORN_DIP_COMMISSARY_24,0.7,0.9
+tabbouleh salad,TABBOULEH_SALADE,0,-1.125
+tartar sauce,TARTAR_SAUCE_SPRING_23,0,-0.153

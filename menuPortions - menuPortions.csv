@@ -1,0 +1,404 @@
+Item,Ingredient,Portion,Units
+The Burger,burger meat,7,nwoz
+The Burger,american cheese,2,qty
+The Burger,burger buns,1,qty
+The Burger,dill pickles,2,floz
+The Burger,burger sauce,1.5,floz
+The Burger,yellow onions,1,nwoz
+The Burger,"black pepper, ground",0.0025,floz
+The Burger,kosher salt,0.125,nwoz
+The Burger,buttermilk,0.5,floz
+The Burger,a.p. flour,0.75,nwoz
+The Burger,paprika,0.05,floz
+The Burger,90/10 canola oil,0.5,floz
+Veggie Burger,90/10 canola oil,0.5,floz
+Veggie Burger,iceberg,0.025,qty
+Veggie Burger,burger buns,1,qty
+Veggie Burger,red onions,0.75,nwoz
+Veggie Burger,red tomatoes,3,nwoz
+Veggie Burger,burger sauce,2,floz
+Veggie Burger,"black bean, quinoa burger",1,qty
+Drutherbird Fried Chicken Sandwich,burger buns,1,qty
+Drutherbird Fried Chicken Sandwich,fried chicken breast,1,qty
+Drutherbird Fried Chicken Sandwich,coleslaw mix,2,nwoz
+Drutherbird Fried Chicken Sandwich,celery seed,0.01,nwoz
+Drutherbird Fried Chicken Sandwich,"black pepper, ground",0.0025,floz
+Drutherbird Fried Chicken Sandwich,apple cider vinegar,0.5,floz
+Drutherbird Fried Chicken Sandwich,a.p. mayo,0.5,floz
+Drutherbird Fried Chicken Sandwich,kosher salt,0.125,nwoz
+Drutherbird Fried Chicken Sandwich,dill pickles,2,floz
+Drutherbird Fried Chicken Sandwich,jalapeno ranch,2,floz
+Drutherbird Fried Chicken Sandwich,ranch,0.25,floz
+Drutherbird Fried Chicken Sandwich,swiss,1,qty
+Hamburger,burger meat,7,nwoz
+Hamburger,burger buns,1,qty
+Hamburger,"black pepper, ground",0.0025,floz
+Hamburger,kosher salt,0.125,nwoz
+Hamburger,90/10 canola oil,0.5,floz
+Cheeseburger,burger buns,1,qty
+Cheeseburger,burger meat,7,nwoz
+Cheeseburger,sliced cheddar,2,qty
+Cheeseburger,"black pepper, ground",0.0025,floz
+Cheeseburger,kosher salt,0.125,nwoz
+Cheeseburger,90/10 canola oil,0.5,floz
+Loaded Grilled Cheese,chopped bacon,0.5,nwoz
+Loaded Grilled Cheese,sliced cheddar,2,qty
+Loaded Grilled Cheese,sourdough,2,qty
+Loaded Grilled Cheese,muenster,2,nwoz
+Loaded Grilled Cheese,shredded chicken,3,nwoz
+Loaded Grilled Cheese,carolina bbq,2,floz
+Loaded Grilled Cheese,ranch,2,floz
+Loaded Grilled Cheese,butter,2,nwoz
+Beer Cheese Dip,pretzels,10,nwoz
+Beer Cheese Dip,cheese sauce,8,floz
+Beer Cheese Dip,tabasco,0.1,floz
+Beer Cheese Dip,cherry peppers,0.05,floz
+Beer Cheese Dip,"black pepper, ground",0.0025,floz
+Beer Cheese Dip,kosher salt,0.125,nwoz
+Beer Cheese Dip,scallions,0.1,qty
+Boneless,boneless,1,lb
+Traditional,frozen wings,1.1,lb
+Cauliflower Wings,cauliflower wings,1,lb
+Shrimp Tacos,shrimp,0.375,lb
+Shrimp Tacos,"6"" tortilla shells",3,qty
+Shrimp Tacos,iceberg,0.025,qty
+Shrimp Tacos,limes,0.375,qty
+Shrimp Tacos,jalapeno ranch,2.5,floz
+Shrimp Tacos,blackened seasoning,1,floz
+Shrimp Tacos,pico de gallo,2,nwoz
+Shrimp Tacos,90/10 canola oil,4,floz
+Buffalo Chicken Meatballs,buffalo chicken meatballs,5,qty
+Buffalo Chicken Meatballs,creamy buffalo,6,floz
+Buffalo Chicken Meatballs,ranch,1,floz
+Buffalo Chicken Meatballs,scallions,0.2,qty
+Jalapeno Popper Fried Mac Balls,jalapeno mac balls,3,qty
+Jalapeno Popper Fried Mac Balls,honey,1,floz
+Jalapeno Popper Fried Mac Balls,ranch,2,floz
+Jalapeno Popper Fried Mac Balls,micro greens,0.1,nwoz
+Chicken Bacon Ranch Dip,cbr dip,8,floz
+Chicken Bacon Ranch Dip,thick chips,8,nwoz
+Chicken Bacon Ranch Dip,scallions,0.1,qty
+Chicken Bacon Ranch Dip,shredded mozzarella,1.5,nwoz
+Chicken Bacon Ranch Dip,chopped bacon,0.25,nwoz
+Fries and Gravy,house fries,8,nwoz
+Fries and Gravy,grated parm,0.5,nwoz
+Fries and Gravy,rosemary,0.1,nwoz
+Fries and Gravy,brown gravy,6,floz
+Braised Short Rib Dumplings,short rib dumplings,5,qty
+Braised Short Rib Dumplings,scallions,0.1,qty
+Braised Short Rib Dumplings,pancetta onion jam,2,floz
+Braised Short Rib Dumplings,micro greens,0.1,nwoz
+Braised Short Rib Dumplings,carrots,0.1,nwoz
+Cali Burrito Eggroll,cali-burrito eggrolls,2,qty
+Cali Burrito Eggroll,avocado,2,floz
+Cali Burrito Eggroll,pico de gallo,1,nwoz
+Chicken Pot Pie,chicken pot pie,20,floz
+Chicken Pot Pie,biscuit topping,5,nwoz
+Chicken Pot Pie,butter,1,nwoz
+Chicken Pot Pie,parsley,0.1,nwoz
+Dry-Aged Meatloaf,meatloaf,1,qty
+Dry-Aged Meatloaf,mashed potatoes,8,nwoz
+Dry-Aged Meatloaf,brown gravy,5,floz
+Dry-Aged Meatloaf,yellow onions,1,nwoz
+Dry-Aged Meatloaf,"black pepper, ground",0.0025,floz
+Dry-Aged Meatloaf,kosher salt,0.125,nwoz
+Dry-Aged Meatloaf,buttermilk,0.5,floz
+Dry-Aged Meatloaf,a.p. flour,0.75,nwoz
+Dry-Aged Meatloaf,paprika,0.05,floz
+Fish and Chips,frozen haddock,2,qty
+Fish and Chips,french fries,12,nwoz
+Fish and Chips,lemons,0.25,qty
+Fish and Chips,tartar sauce,2,floz
+Fish and Chips,cocktail sauce,2,floz
+Fish and Chips,kosher salt,0.125,nwoz
+Fish and Chips,"black pepper, ground",0.0025,floz
+Fish and Chips,scallions,0.1,qty
+Grilled Salmon,salmon (6oz),1,qty
+Grilled Salmon,creamed spinach,8,floz
+Grilled Salmon,roasted tomatoes,3,nwoz
+Grilled Salmon,garlic butter,1,nwoz
+Grilled Salmon,kosher salt,0.125,nwoz
+Grilled Salmon,"black pepper, ground",0.0025,floz
+Grilled Salmon,90/10 canola oil,1,floz
+Kids Mac & Cheese,raw pasta,7,nwoz
+Kids Mac & Cheese,cheese sauce,4,floz
+Kids Cheeseburger,burger buns,1,qty
+Kids Cheeseburger,sliced cheddar,1,qty
+Kids Cheeseburger,burger meat,3.5,nwoz
+Kids Cheeseburger,kosher salt,0.125,nwoz
+Kids Cheeseburger,"black pepper, ground",0.0025,floz
+Kids Cheeseburger,90/10 canola oil,0.5,floz
+Kids Hamburger,burger meat,3.5,nwoz
+Kids Hamburger,burger buns,1,qty
+Kids Hamburger,kosher salt,0.125,nwoz
+Kids Hamburger,"black pepper, ground",0.0025,floz
+Kids Hamburger,90/10 canola oil,0.5,floz
+Kids Chicken Tenders,boneless,0.5,lb
+Kids Grilled Cheese,sourdough,2,qty
+Kids Grilled Cheese,sliced cheddar,2,qty
+Kids Grilled Cheese,butter,2,nwoz
+Kids Pasta with Butter,raw pasta,7,nwoz
+Kids Pasta with Butter,butter,3,nwoz
+Kids Pasta with Red Sauce,raw pasta,7,nwoz
+Kids Pasta with Red Sauce,marinara,4,floz
+Druthers Mac,raw pasta,18,nwoz
+Druthers Mac,cheese sauce,12,floz
+Druthers Mac,panko,1.5,nwoz
+Druthers Mac,butter,0.125,nwoz
+Druthers Mac,paprika,0.05,floz
+Druthers Mac,ranch packets,0.125,floz
+Loaded Mac,chopped bacon,0.5,nwoz
+Loaded Mac,shredded chicken,3,nwoz
+Loaded Mac,raw pasta,16,nwoz
+Loaded Mac,cheese sauce,14,floz
+Loaded Mac,panko,1.5,nwoz
+Loaded Mac,ranch,2,floz
+Loaded Mac,carolina bbq,2,floz
+Loaded Mac,butter,0.125,nwoz
+Loaded Mac,paprika,0.05,floz
+Loaded Mac,ranch packets,0.125,floz
+BBQ Mac,raw pasta,16,nwoz
+BBQ Mac,cheese sauce,14,floz
+BBQ Mac,carolina bbq,4,floz
+BBQ Mac,pulled pork,5,nwoz
+BBQ Mac,panko,1.5,nwoz
+BBQ Mac,butter,0.125,nwoz
+BBQ Mac,paprika,0.05,floz
+BBQ Mac,ranch packets,0.125,floz
+BBQ Mac,coleslaw mix,2,nwoz
+BBQ Mac,celery seed,0.01,nwoz
+BBQ Mac,"black pepper, ground",0.0025,floz
+BBQ Mac,apple cider vinegar,0.5,floz
+BBQ Mac,a.p. mayo,0.5,floz
+BBQ Mac,kosher salt,0.125,nwoz
+BBQ Mac,jalapeno ranch,0.25,floz
+Buffalo Chicken Mac,raw pasta,18,nwoz
+Buffalo Chicken Mac,ranch,2,floz
+Buffalo Chicken Mac,scallions,0.01,qty
+Buffalo Chicken Mac,boneless,0.25,lb
+Buffalo Chicken Mac,creamy buffalo,3,floz
+Buffalo Chicken Mac,cheese sauce,16,floz
+Buffalo Chicken Mac,panko,1.5,nwoz
+Buffalo Chicken Mac,butter,0.125,nwoz
+Buffalo Chicken Mac,paprika,0.05,floz
+Buffalo Chicken Mac,ranch packets,0.125,floz
+Bolognese Mac,raw pasta,18,nwoz
+Bolognese Mac,bolognese,8,floz
+Bolognese Mac,riccotta,1,nwoz
+Bolognese Mac,cheese sauce,16,floz
+Bolognese Mac,panko,1.5,nwoz
+Bolognese Mac,butter,0.125,nwoz
+Bolognese Mac,paprika,0.05,floz
+Bolognese Mac,ranch packets,0.125,floz
+Veggie Mac,raw pasta,16,nwoz
+Veggie Mac,yellow onions,2,nwoz
+Veggie Mac,"black pepper, ground",0.0025,floz
+Veggie Mac,kosher salt,0.125,nwoz
+Veggie Mac,buttermilk,0.5,floz
+Veggie Mac,a.p. flour,0.75,nwoz
+Veggie Mac,paprika,0.05,floz
+Veggie Mac,cheese sauce,16,floz
+Veggie Mac,roasted tomatoes,4,nwoz
+Veggie Mac,creamed spinach,4,floz
+Veggie Mac,panko,1.5,nwoz
+Veggie Mac,butter,0.125,nwoz
+Veggie Mac,paprika,0.05,floz
+Veggie Mac,ranch packets,0.125,floz
+Beef and Beer Cheese,roast beef,6,nwoz
+Beef and Beer Cheese,baguettes,1,qty
+Beef and Beer Cheese,garlic butter,2,nwoz
+Beef and Beer Cheese,cheese sauce,4,floz
+Beef and Beer Cheese,cherry peppers,0.05,floz
+Beef and Beer Cheese,tabasco,0.025,floz
+Beef and Beer Cheese,buttermilk,1.5,floz
+Beef and Beer Cheese,a.p. flour,2.25,nwoz
+Beef and Beer Cheese,paprika,0.15,floz
+Beef and Beer Cheese,yellow onions,3,nwoz
+Gobbler,baguettes,1,qty
+Gobbler,cranberry sauce,2,nwoz
+Gobbler,provolone,3,qty
+Gobbler,turkey,6,nwoz
+Gobbler,stuffing,4,nwoz
+Gobbler,brown gravy,4,floz
+Gobbler,a.p. mayo,2,floz
+The Wolf,baguettes,1,qty
+The Wolf,ham,3,nwoz
+The Wolf,turkey,3,nwoz
+The Wolf,swiss,3,qty
+The Wolf,coleslaw mix,4,nwoz
+The Wolf,celery seed,0.01,nwoz
+The Wolf,"black pepper, ground",0.0025,floz
+The Wolf,apple cider vinegar,0.5,floz
+The Wolf,a.p. mayo,0.5,floz
+The Wolf,kosher salt,0.125,nwoz
+The Wolf,ranch,0.25,floz
+The Wolf,burger sauce,3,floz
+Beer Battered Fish,baguettes,1,qty
+Beer Battered Fish,frozen haddock,1,qty
+Beer Battered Fish,tartar sauce,4,floz
+Beer Battered Fish,coleslaw mix,4,nwoz
+Beer Battered Fish,celery seed,0.01,nwoz
+Beer Battered Fish,"black pepper, ground",0.0025,floz
+Beer Battered Fish,apple cider vinegar,0.5,floz
+Beer Battered Fish,a.p. mayo,0.5,floz
+Beer Battered Fish,kosher salt,0.125,nwoz
+Beer Battered Fish,ranch,0.25,floz
+Apple Gorgonzola Salad,granny smith apples,0.5,qty
+Apple Gorgonzola Salad,gorgonzola crumbles,3,nwoz
+Apple Gorgonzola Salad,mixed greens,3,nwoz
+Apple Gorgonzola Salad,dried cranberries,1,nwoz
+Apple Gorgonzola Salad,candied walnuts,2,nwoz
+Apple Gorgonzola Salad,balsamic vinaigrette,4,floz
+Baby Kale Caesar Salad,baby kale,3,nwoz
+Baby Kale Caesar Salad,shaved parmesan,2,nwoz
+Baby Kale Caesar Salad,grapes,1.5,nwoz
+Baby Kale Caesar Salad,bagette,2,nwoz
+Baby Kale Caesar Salad,caesar dressing,4,floz
+Baby Kale Caesar Salad,garlic powder,0.125,nwoz
+Baby Kale Caesar Salad,"black pepper, ground",0.0025,floz
+Baby Kale Caesar Salad,kosher salt,0.125,nwoz
+Baby Kale Caesar Salad,90/10 canola oil,0.25,floz
+Mediterranean Grains Salad,romaine,1,qty
+Mediterranean Grains Salad,feta,0.5,nwoz
+Mediterranean Grains Salad,cucumbers,0.15,qty
+Mediterranean Grains Salad,red onions ,0.5,nwoz
+Mediterranean Grains Salad,kalamata olives,1.5,nwoz
+Mediterranean Grains Salad,chickpeas,1,nwoz
+Mediterranean Grains Salad,artichoke hearts,2.5,nwoz
+Mediterranean Grains Salad,lemon dijon vinaigrette,4,floz
+Mediterranean Grains Salad,farro,4,nwoz
+BLT Wedge Salad,iceberg,0.33,qty
+BLT Wedge Salad,chopped bacon,2,nwoz
+BLT Wedge Salad,roasted tomatoes,4,nwoz
+BLT Wedge Salad,blue cheese,4,floz
+BLT Wedge Salad,pickled red onions,2,nwoz
+BLT Wedge Salad,yellow onions,1,nwoz
+BLT Wedge Salad,buttermilk,0.5,floz
+BLT Wedge Salad,a.p. flour,0.75,nwoz
+BLT Wedge Salad,paprika,0.05,floz
+French Onion Soup,french onion soup,8,floz
+French Onion Soup,swiss,1,qty
+French Onion Soup,caramelized onions,2,nwoz
+Creamy Tomato Soup and Grilled Cheese Sticks,tomato soup,16,floz
+Creamy Tomato Soup and Grilled Cheese Sticks,sourdough,2,qty
+Creamy Tomato Soup and Grilled Cheese Sticks,american cheese,4,qty
+Creamy Tomato Soup and Grilled Cheese Sticks,grated parm,0.1,nwoz
+Creamy Tomato Soup and Grilled Cheese Sticks,butter,0.1,nwoz
+Creamy Tomato Soup and Grilled Cheese Sticks,parsley,0.1,nwoz
+Cheese,flatbread (12x12),1,qty
+Cheese,shredded mozzarella,4,nwoz
+Cheese,marinara,3,floz
+Pepperoni,flatbread (12x12),1,qty
+Pepperoni,shredded mozzarella,4,nwoz
+Pepperoni,pepperoni cups,2,nwoz
+Pepperoni,marinara,3,floz
+Angry Bee,flatbread (12x12),1,qty
+Angry Bee,marinara,3,floz
+Angry Bee,shredded mozzarella,4,nwoz
+Angry Bee,hot honey,2,nwoz
+Angry Bee,pepperoni cups,3,nwoz
+Angry Bee,marinara,3,floz
+Angry Bee,candied jalapenos,2,nwoz
+Meatball,flatbread (12x12),1,qty
+Meatball,shredded mozzarella,4,nwoz
+Meatball,grated parm,0.11,nwoz
+Meatball,meatballs,2,qty
+Meatball,marinara,3,floz
+Meatball,parsley,0.25,nwoz
+Buffalo Chicken,flatbread (12x12),1,qty
+Buffalo Chicken,gorgonzola crumbles,2,nwoz
+Buffalo Chicken,scallions,0.1,qty
+Buffalo Chicken,creamy buffalo,3,floz
+Buffalo Chicken,shredded mozzarella,4,nwoz
+Buffalo Chicken,ranch,2,floz
+Buffalo Chicken,boneless,0.25,lb
+Thai Chicken,flatbread (12x12),1,qty
+Thai Chicken,thai peanut sauce,4,floz
+Thai Chicken,shredded mozzarella,4,nwoz
+Thai Chicken,carrots,2,nwoz
+Thai Chicken,shredded chicken,3,nwoz
+Thai Chicken,sesame seeds,0.1,nwoz
+Thai Chicken,scallions,0.1,qty
+Warm Chocolate Chip Cookie Skillet,chocolate chip cookie dough,2,qty
+Warm Chocolate Chip Cookie Skillet,vanilla ice cream,8,floz
+Flourless Chocolate Cake,flourless chocolate cake,1,qty
+Scoop Ice Cream,vanilla ice cream,8,floz
+Side of Fries,french fries,7,nwoz
+Side of Fries,"black pepper, ground",0.0025,floz
+Side of Fries,kosher salt,0.125,nwoz
+Side of Greens,mixed greens,2,nwoz
+Side of Greens,balsamic vinaigrette,2,floz
+Side of Pretzels,"black pepper, ground",0.0025,floz
+Side of Pretzels,kosher salt,0.125,nwoz
+Side of Pretzels,pretzels,10,nwoz
+Side of coleslaw,coleslaw mix,4,nwoz
+Side of coleslaw,jalapeno ranch,0.2,floz
+Side of coleslaw,celery seed,0.01,nwoz
+Side of coleslaw,"black pepper, ground",0.0025,floz
+Side of coleslaw,apple cider vinegar,0.5,floz
+Side of coleslaw,a.p. mayo,0.5,floz
+Side of coleslaw,kosher salt,0.125,nwoz
+Side of Fruit,granny smith apples,0.2,qty
+Side of Fruit,strawberries,2,nwoz
+Side of Fruit,grapes,2,nwoz
+Side of Beer Cheese,cheese sauce,8,floz
+Side of Beer Cheese,cherry peppers,0.1,floz
+Side of Beer Cheese,tabasco,0.05,floz
+Side of Sourdough Bread,sourdough,1,qty
+Side of Gluten Free Bread,gf bread,1,qty
+Side of Baguette,baguettes,0.3333,qty
+GF Bun,gf buns,1,qty
+Add Chicken (Side),roasted chicken,1,qty
+Add Chicken (Side),90/10 canola oil,1,floz
+Add Shrimp (Side),shrimp,0.375,lb
+Add Shrimp (Side),blackened seasoning,1,floz
+Add Shrimp (Side),90/10 canola oil,2,floz
+Add Salmon (Side),salmon (6oz),1,qty
+Add Salmon (Side),"black pepper, ground",0.0025,floz
+Add Salmon (Side),kosher salt,0.125,nwoz
+Add Salmon (Side),90/10 canola oil,2,floz
+SIDE Korean BBQ,korean bbq,2,floz
+SIDE Balsamic Vinaigrette,balsamic vinaigrette,2,floz
+SIDE BBQ,carolina bbq,2,floz
+SIDE Beer Cheese,cheese sauce,2,floz
+SIDE Beer Cheese,cherry peppers,0.01,floz
+SIDE Beer Cheese,tabasco,0.005,floz
+Add Beer Cheese,cheese sauce,2,floz
+Add Beer Cheese,cherry peppers,0.01,floz
+Add Beer Cheese,tabasco,0.005,floz
+SIDE Blue Cheese,blue cheese,2,floz
+SIDE Buffalo,buffalo,2,floz
+SIDE Burger Sauce,burger sauce,2,floz
+SIDE Caesar,caesar dressing,2,floz
+SIDE Candied Jalapenos,candied jalapenos,2,nwoz
+SIDE Cocktail Sauce,cocktail sauce,2,floz
+SIDE Mustard,french's mustard,2,nwoz
+SIDE Jalapeno Ranch,jalapeno ranch,2,floz
+SIDE Lemon Dijon Vinaigrette,lemon dijon vinaigrette,2,floz
+SIDE Mango Habanero,mango habanero,2,floz
+SIDE Ranch,ranch,2,floz
+SIDE Tartar Sauce,tartar sauce,2,floz
+SIDE Bacon,chopped bacon,0.5,nwoz
+SIDE Hot Honey,hot honey,2,floz
+Add Chopped Bacon,chopped bacon,0.5,nwoz
+Add Bacon,chopped bacon,0.5,nwoz
+SIDE Malt Vinegar aioli,malt vinegar aioli ,2,floz
+SIDE MAYO,a.p. mayo,2,floz
+Caramelized Onions,caramelized onions,2,nwoz
+Make It Ugly,cheese sauce,2,floz
+Make It Ugly,cherry peppers,0.01,floz
+Make It Ugly,tabasco,0.005,floz
+Make It Ugly,chopped bacon,0.5,nwoz
+Make It Ugly,eggs,1,qty
+Make It Ugly,kosher salt,0.125,nwoz
+Make It Ugly,"black pepper, ground",0.0025,floz
+Make It Ugly,buttermilk,0.5,floz
+Make It Ugly,a.p. flour,0.75,nwoz
+Make It Ugly,paprika,0.05,floz
+Make It Ugly,yellow onions,1,nwoz
+ADD Fried Egg,eggs,1,qty
+ADD Fried Egg,kosher salt,0.125,nwoz
+ADD Fried Egg,"black pepper, ground",0.0025,floz
+Fried Egg,eggs,1,qty
+Fried Egg,kosher salt,0.125,nwoz
+Fried Egg,"black pepper, ground",0.0025,floz
